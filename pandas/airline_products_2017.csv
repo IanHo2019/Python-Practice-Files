@@ -1,0 +1,857 @@
+,origin_airport,dest_airport,airline,fare,nonstop,distance,origin_city,dest_city,passengers
+51,SFO,ALB,Southwest Airlines,267.50681,0,2558.998269704693,"San Francisco, CA","Albany, NY",250
+52,SFO,ALB,United Airlines,346.01852999999994,0,2558.998269704693,"San Francisco, CA","Albany, NY",270
+53,SJC,ALB,Southwest Airlines,275.9325,0,2543.615783340123,"San Jose, CA","Albany, NY",320
+54,OAK,ALB,Southwest Airlines,329.16162,0,2548.420186105638,"Oakland, CA","Albany, NY",430
+55,SMF,ALB,Southwest Airlines,360.20417,0,2490.757964939306,"Sacramento, CA","Albany, NY",360
+118,SFO,ABQ,Southwest Airlines,215.82173999999998,0,896.3344132076319,"San Francisco, CA","Albuquerque, NM",400
+119,SJC,ABQ,Southwest Airlines,183.86714,1,869.9767921584472,"San Jose, CA","Albuquerque, NM",490
+120,SMF,ABQ,Southwest Airlines,225.69729999999998,0,866.3809804662037,"Sacramento, CA","Albuquerque, NM",1300
+121,SMF,ABQ,Southwest Airlines,213.29702999999998,1,866.3809804662037,"Sacramento, CA","Albuquerque, NM",370
+122,SFO,ABQ,United Airlines,244.94445,1,896.3344132076319,"San Francisco, CA","Albuquerque, NM",360
+123,SJC,ABQ,Southwest Airlines,230.20193999999998,0,869.9767921584472,"San Jose, CA","Albuquerque, NM",880
+124,OAK,ABQ,Southwest Airlines,222.74601,1,888.7855260861992,"Oakland, CA","Albuquerque, NM",6440
+125,OAK,ABQ,Southwest Airlines,256.33025000000004,0,888.7855260861992,"Oakland, CA","Albuquerque, NM",370
+274,OAK,ATL,Southwest Airlines,259.17838,0,2129.990594034673,"Oakland, CA","Atlanta, GA",1240
+275,SMF,ATL,United Airlines,307.43301,0,2092.177267322344,"Sacramento, CA","Atlanta, GA",100
+276,SJC,ATL,American Airlines,308.36672999999996,0,2115.803922184516,"San Jose, CA","Atlanta, GA",520
+277,SJC,ATL,Southwest Airlines,262.79037,0,2115.803922184516,"San Jose, CA","Atlanta, GA",540
+278,SFO,ATL,Frontier Airlines,154.0673,0,2138.945902708684,"San Francisco, CA","Atlanta, GA",260
+279,SFO,ATL,American Airlines,292.08341,0,2138.945902708684,"San Francisco, CA","Atlanta, GA",470
+280,OAK,ATL,Southwest Airlines,249.61691000000005,1,2129.990594034673,"Oakland, CA","Atlanta, GA",3410
+281,OAK,ATL,Delta Air Lines,282.09479,1,2129.990594034673,"Oakland, CA","Atlanta, GA",440
+282,SFO,ATL,Delta Air Lines,475.03599999999994,0,2138.945902708684,"San Francisco, CA","Atlanta, GA",100
+283,SFO,ATL,Delta Air Lines,339.26883000000004,1,2138.945902708684,"San Francisco, CA","Atlanta, GA",8370
+284,SJC,ATL,Southwest Airlines,245.77560000000003,1,2115.803922184516,"San Jose, CA","Atlanta, GA",250
+285,SFO,ATL,United Airlines,310.63397,1,2138.945902708684,"San Francisco, CA","Atlanta, GA",6290
+286,OAK,ATL,Spirit Air Lines,166.05391999999998,0,2129.990594034673,"Oakland, CA","Atlanta, GA",230
+287,SMF,ATL,Delta Air Lines,318.51453999999995,1,2092.177267322344,"Sacramento, CA","Atlanta, GA",3210
+288,SFO,ATL,Southwest Airlines,230.86691000000005,0,2138.945902708684,"San Francisco, CA","Atlanta, GA",740
+289,SMF,ATL,Southwest Airlines,270.82052000000004,0,2092.177267322344,"Sacramento, CA","Atlanta, GA",1540
+290,SMF,ATL,Delta Air Lines,408.65345,0,2092.177267322344,"Sacramento, CA","Atlanta, GA",230
+291,SFO,ATL,Frontier Airlines,139.66061000000002,1,2138.945902708684,"San Francisco, CA","Atlanta, GA",1450
+292,SMF,ATL,Southwest Airlines,240.59081,1,2092.177267322344,"Sacramento, CA","Atlanta, GA",250
+293,SJC,ATL,Delta Air Lines,335.77218000000005,1,2115.803922184516,"San Jose, CA","Atlanta, GA",2620
+294,SMF,ATL,American Airlines,270.29276000000004,0,2092.177267322344,"Sacramento, CA","Atlanta, GA",400
+295,SFO,ATL,United Airlines,286.69131,0,2138.945902708684,"San Francisco, CA","Atlanta, GA",230
+400,SFO,AUS,Alaska Airlines,189.65852999999998,1,1503.704998005908,"San Francisco, CA","Austin, TX",820
+401,SFO,AUS,United Airlines,270.50933999999995,1,1503.704998005908,"San Francisco, CA","Austin, TX",10880
+402,SFO,AUS,Southwest Airlines,203.66833,0,1503.704998005908,"San Francisco, CA","Austin, TX",540
+403,OAK,AUS,Southwest Airlines,251.72173999999998,0,1497.002445000632,"Oakland, CA","Austin, TX",630
+404,SMF,AUS,Southwest Airlines,247.20313999999996,1,1480.616279723489,"Sacramento, CA","Austin, TX",160
+405,OAK,AUS,Southwest Airlines,228.20928,1,1497.002445000632,"Oakland, CA","Austin, TX",4620
+406,SFO,AUS,United Airlines,283.17301000000003,0,1503.704998005908,"San Francisco, CA","Austin, TX",100
+407,SMF,AUS,American Airlines,288.38782000000003,0,1480.616279723489,"Sacramento, CA","Austin, TX",320
+408,SMF,AUS,Southwest Airlines,268.15587999999997,0,1480.616279723489,"Sacramento, CA","Austin, TX",1850
+409,SMF,AUS,United Airlines,224.98765,0,1480.616279723489,"Sacramento, CA","Austin, TX",170
+410,SJC,AUS,JetBlue Airways,251.6,0,1475.916248541763,"San Jose, CA","Austin, TX",100
+411,SJC,AUS,American Airlines,270.02227000000005,0,1475.916248541763,"San Jose, CA","Austin, TX",220
+412,SFO,AUS,Virgin America,244.86761,1,1503.704998005908,"San Francisco, CA","Austin, TX",5250
+413,SJC,AUS,Southwest Airlines,291.54339,0,1475.916248541763,"San Jose, CA","Austin, TX",710
+414,SFO,AUS,American Airlines,280.82708999999994,0,1503.704998005908,"San Francisco, CA","Austin, TX",310
+415,SJC,AUS,Southwest Airlines,257.72631,1,1475.916248541763,"San Jose, CA","Austin, TX",5610
+422,SFO,BIL,United Airlines,200.18182000000002,0,909.3682179114243,"San Francisco, CA","Billings, MT",110
+461,OAK,BHM,Southwest Airlines,266.41412,0,2004.464757823656,"Oakland, CA","Birmingham, AL",510
+462,SFO,BHM,Delta Air Lines,463.0952400000001,0,2013.264645695119,"San Francisco, CA","Birmingham, AL",210
+463,SMF,BHM,Southwest Airlines,292.9574,0,1968.3116991199329,"Sacramento, CA","Birmingham, AL",500
+464,SJC,BHM,Southwest Airlines,271.00265,0,1989.6719644880388,"San Jose, CA","Birmingham, AL",150
+511,SFO,BOI,United Airlines,293.54789,1,522.2088256371693,"San Francisco, CA","Boise, ID",1880
+512,SJC,BOI,Southwest Airlines,186.02648000000002,0,522.6848875631642,"San Jose, CA","Boise, ID",170
+513,SJC,BOI,Alaska Airlines,140.00621,1,522.6848875631642,"San Jose, CA","Boise, ID",1610
+514,OAK,BOI,Southwest Airlines,201.04078999999996,1,511.51904457472733,"Oakland, CA","Boise, ID",3150
+515,SMF,BOI,Alaska Airlines,111.09826999999999,1,437.2140590866815,"Sacramento, CA","Boise, ID",1730
+516,SMF,BOI,Southwest Airlines,130.45349,1,437.2140590866815,"Sacramento, CA","Boise, ID",2520
+745,SFO,BOS,United Airlines,646.54217,0,2704.105507782648,"San Francisco, CA","Boston, MA",650
+746,SJC,BOS,American Airlines,426.89304000000004,0,2688.694886527358,"San Jose, CA","Boston, MA",360
+747,SFO,BOS,Delta Air Lines,286.10055,1,2704.105507782648,"San Francisco, CA","Boston, MA",1260
+748,SJC,BOS,JetBlue Airways,272.40057,1,2688.694886527358,"San Jose, CA","Boston, MA",2110
+749,OAK,BOS,Southwest Airlines,296.38472,1,2693.5296587591697,"Oakland, CA","Boston, MA",170
+750,SMF,BOS,Southwest Airlines,234.37901000000002,1,2635.871643412008,"Sacramento, CA","Boston, MA",100
+751,SJC,BOS,Southwest Airlines,299.49832000000004,0,2688.694886527358,"San Jose, CA","Boston, MA",300
+752,OAK,BOS,JetBlue Airways,265.75,1,2693.5296587591697,"Oakland, CA","Boston, MA",660
+753,SFO,BOS,JetBlue Airways,367.81991,1,2704.105507782648,"San Francisco, CA","Boston, MA",4880
+754,SMF,MHT,Southwest Airlines,266.81936,0,2606.55907740537,"Sacramento, CA","Manchester, NH",320
+755,SFO,BOS,Southwest Airlines,255.76742000000002,0,2704.105507782648,"San Francisco, CA","Boston, MA",270
+756,SJC,MHT,Southwest Airlines,319.89641,0,2660.468424184638,"San Jose, CA","Manchester, NH",140
+757,OAK,BOS,American Airlines,297.66665,0,2693.5296587591697,"Oakland, CA","Boston, MA",120
+758,OAK,MHT,Southwest Airlines,327.19052000000005,0,2664.8936208795913,"Oakland, CA","Manchester, NH",190
+759,SFO,BOS,American Airlines,330.58998999999994,0,2704.105507782648,"San Francisco, CA","Boston, MA",730
+760,OAK,BOS,Southwest Airlines,298.85614,0,2693.5296587591697,"Oakland, CA","Boston, MA",910
+761,SMF,BOS,United Airlines,365.10949,0,2635.871643412008,"Sacramento, CA","Boston, MA",580
+762,SFO,BOS,JetBlue Airways,389.76333,0,2704.105507782648,"San Francisco, CA","Boston, MA",150
+763,SMF,BOS,Southwest Airlines,294.51427,0,2635.871643412008,"Sacramento, CA","Boston, MA",820
+764,SJC,BOS,Delta Air Lines,267.29952999999995,0,2688.694886527358,"San Jose, CA","Boston, MA",440
+765,SMF,BOS,Delta Air Lines,390.93618,0,2635.871643412008,"Sacramento, CA","Boston, MA",340
+766,SMF,BOS,American Airlines,367.04720999999995,0,2635.871643412008,"Sacramento, CA","Boston, MA",360
+767,SMF,BOS,JetBlue Airways,250.29080000000002,0,2635.871643412008,"Sacramento, CA","Boston, MA",250
+768,SFO,BOS,Alaska Airlines,233.86965,1,2704.105507782648,"San Francisco, CA","Boston, MA",1150
+769,SFO,BOS,Virgin America,316.52105,1,2704.105507782648,"San Francisco, CA","Boston, MA",8200
+770,SMF,BOS,JetBlue Airways,271.5802,1,2635.871643412008,"Sacramento, CA","Boston, MA",940
+771,SJC,BOS,JetBlue Airways,345.01071,0,2688.694886527358,"San Jose, CA","Boston, MA",140
+772,SFO,BOS,Delta Air Lines,272.05408,0,2704.105507782648,"San Francisco, CA","Boston, MA",880
+773,SFO,BOS,United Airlines,344.0489299999999,1,2704.105507782648,"San Francisco, CA","Boston, MA",27660
+774,SJC,BOS,United Airlines,242.78998,0,2688.694886527358,"San Jose, CA","Boston, MA",730
+830,SFO,BUF,Delta Air Lines,356.46546,0,2309.071425090172,"San Francisco, CA","Buffalo, NY",110
+831,SMF,BUF,Southwest Airlines,310.26708999999994,0,2241.340937574127,"Sacramento, CA","Buffalo, NY",310
+832,OAK,BUF,Southwest Airlines,308.19604,0,2298.5198558909383,"Oakland, CA","Buffalo, NY",380
+833,SFO,BUF,Southwest Airlines,258.97262,0,2309.071425090172,"San Francisco, CA","Buffalo, NY",190
+834,SFO,BUF,United Airlines,288.77272999999997,0,2309.071425090172,"San Francisco, CA","Buffalo, NY",110
+835,SJC,BUF,Southwest Airlines,275.27398999999997,0,2293.486683555876,"San Jose, CA","Buffalo, NY",350
+875,SFO,RSW,Delta Air Lines,308.75857,0,2480.679398176555,"San Francisco, CA","Fort Myers, FL",560
+876,SMF,RSW,United Airlines,256.08272999999997,0,2447.169926065762,"Sacramento, CA","Fort Myers, FL",110
+877,SMF,RSW,American Airlines,313.01229,0,2447.169926065762,"Sacramento, CA","Fort Myers, FL",130
+878,SMF,RSW,Delta Air Lines,374.40599999999995,0,2447.169926065762,"Sacramento, CA","Fort Myers, FL",100
+879,OAK,RSW,Southwest Airlines,307.82886,0,2472.994190833263,"Oakland, CA","Fort Myers, FL",260
+880,SFO,RSW,United Airlines,294.77034,0,2480.679398176555,"San Francisco, CA","Fort Myers, FL",320
+881,SJC,RSW,American Airlines,301.48306,0,2454.449314056621,"San Jose, CA","Fort Myers, FL",130
+882,SFO,RSW,American Airlines,292.26754,0,2480.679398176555,"San Francisco, CA","Fort Myers, FL",490
+883,OAK,RSW,Southwest Airlines,254.94001000000003,1,2472.994190833263,"Oakland, CA","Fort Myers, FL",110
+884,SJC,RSW,United Airlines,242.81900000000002,0,2454.449314056621,"San Jose, CA","Fort Myers, FL",100
+915,SFO,CHS,American Airlines,261.20036,0,2395.521929074514,"San Francisco, CA","Charleston, SC",300
+916,SJC,CHS,Southwest Airlines,306.70402,0,2372.695549677625,"San Jose, CA","Charleston, SC",150
+917,SMF,CHS,Southwest Airlines,315.28633,0,2347.417314418276,"Sacramento, CA","Charleston, SC",190
+918,OAK,CHS,Southwest Airlines,323.29702,0,2386.460399979373,"Oakland, CA","Charleston, SC",370
+919,SFO,CHS,United Airlines,288.78,0,2395.521929074514,"San Francisco, CA","Charleston, SC",180
+920,SMF,CHS,American Airlines,381.6,0,2347.417314418276,"Sacramento, CA","Charleston, SC",100
+921,SJC,CHS,Delta Air Lines,350.46430000000004,0,2372.695549677625,"San Jose, CA","Charleston, SC",140
+922,SFO,CHS,Delta Air Lines,378.61111000000005,0,2395.521929074514,"San Francisco, CA","Charleston, SC",540
+1008,SJC,CLT,Delta Air Lines,235.1594,0,2274.346745906832,"San Jose, CA","Charlotte, NC",170
+1009,SMF,CLT,Delta Air Lines,222.58067000000003,0,2243.572700708206,"Sacramento, CA","Charlotte, NC",150
+1010,SMF,CLT,Southwest Airlines,331.98589999999996,0,2243.572700708206,"Sacramento, CA","Charlotte, NC",220
+1011,SFO,CLT,Delta Air Lines,261.20429,0,2295.908872783167,"San Francisco, CA","Charlotte, NC",420
+1012,SFO,CLT,American Airlines,312.89299,1,2295.908872783167,"San Francisco, CA","Charlotte, NC",7210
+1013,SFO,CLT,United Airlines,320.81602000000004,0,2295.908872783167,"San Francisco, CA","Charlotte, NC",250
+1014,SJC,CLT,American Airlines,257.15017,1,2274.346745906832,"San Jose, CA","Charlotte, NC",540
+1015,OAK,CLT,American Airlines,296.61539,0,2286.4811512591973,"Oakland, CA","Charlotte, NC",130
+1016,SJC,CLT,United Airlines,263.64999,0,2274.346745906832,"San Jose, CA","Charlotte, NC",100
+1017,SFO,CLT,American Airlines,281.94752,0,2295.908872783167,"San Francisco, CA","Charlotte, NC",120
+1018,SMF,CLT,American Airlines,333.34942,0,2243.572700708206,"Sacramento, CA","Charlotte, NC",700
+1019,SJC,CLT,American Airlines,301.17002,0,2274.346745906832,"San Jose, CA","Charlotte, NC",320
+1020,SMF,CLT,American Airlines,247.70734000000002,1,2243.572700708206,"Sacramento, CA","Charlotte, NC",1320
+1021,OAK,CLT,Southwest Airlines,336.01513,0,2286.4811512591973,"Oakland, CA","Charlotte, NC",370
+1195,OAK,ORD,Spirit Air Lines,138.06999,0,1835.609058168002,"Oakland, CA","Chicago, IL",140
+1196,SMF,ORD,United Airlines,265.23077,0,1781.196892132016,"Sacramento, CA","Chicago, IL",130
+1197,SMF,ORD,American Airlines,221.73032999999998,1,1781.196892132016,"Sacramento, CA","Chicago, IL",3150
+1198,SFO,ORD,Virgin America,265.60071,0,1845.98745228913,"San Francisco, CA","Chicago, IL",140
+1199,OAK,MDW,Southwest Airlines,265.25376,0,1844.2155280642871,"Oakland, CA","Chicago, IL",320
+1200,SJC,MDW,Southwest Airlines,255.69787000000002,0,1837.555942483955,"San Jose, CA","Chicago, IL",420
+1201,SFO,MDW,Southwest Airlines,214.06624,0,1854.566947263527,"San Francisco, CA","Chicago, IL",160
+1202,SFO,ORD,American Airlines,243.94407000000004,1,1845.98745228913,"San Francisco, CA","Chicago, IL",8630
+1203,SFO,ORD,Virgin America,235.23016,1,1845.98745228913,"San Francisco, CA","Chicago, IL",7370
+1204,SMF,ORD,United Airlines,267.63287,1,1781.196892132016,"Sacramento, CA","Chicago, IL",2930
+1205,SJC,ORD,American Airlines,229.19071,1,1829.158694583403,"San Jose, CA","Chicago, IL",4950
+1206,OAK,ORD,Spirit Air Lines,108.26308,1,1835.609058168002,"Oakland, CA","Chicago, IL",3120
+1207,SMF,MDW,Southwest Airlines,224.56601000000003,1,1790.184357257099,"Sacramento, CA","Chicago, IL",4360
+1208,SJC,ORD,American Airlines,270.93,0,1829.158694583403,"San Jose, CA","Chicago, IL",180
+1209,SFO,ORD,United Airlines,290.27783999999997,1,1845.98745228913,"San Francisco, CA","Chicago, IL",31520
+1210,SMF,ORD,American Airlines,233.87763999999999,0,1781.196892132016,"Sacramento, CA","Chicago, IL",630
+1211,SFO,MDW,Southwest Airlines,236.54807,1,1854.566947263527,"San Francisco, CA","Chicago, IL",2950
+1212,SFO,ORD,Delta Air Lines,203.73647,0,1845.98745228913,"San Francisco, CA","Chicago, IL",170
+1213,SJC,MDW,Southwest Airlines,227.04998999999998,1,1837.555942483955,"San Jose, CA","Chicago, IL",2470
+1214,SJC,ORD,United Airlines,292.24138,1,1829.158694583403,"San Jose, CA","Chicago, IL",2080
+1215,SFO,ORD,United Airlines,494.344,0,1845.98745228913,"San Francisco, CA","Chicago, IL",350
+1216,OAK,ORD,American Airlines,237.39022999999997,0,1835.609058168002,"Oakland, CA","Chicago, IL",410
+1217,OAK,MDW,Southwest Airlines,239.52436,1,1844.2155280642871,"Oakland, CA","Chicago, IL",9210
+1218,SFO,ORD,Alaska Airlines,171.74181,1,1845.98745228913,"San Francisco, CA","Chicago, IL",1220
+1219,SMF,MDW,Southwest Airlines,253.23157000000003,0,1790.184357257099,"Sacramento, CA","Chicago, IL",1140
+1220,SFO,ORD,Frontier Airlines,130.37806,1,1845.98745228913,"San Francisco, CA","Chicago, IL",410
+1239,SFO,CVG,Delta Air Lines,301.87595000000005,1,2036.2509761925492,"San Francisco, CA","Cincinnati, OH",1110
+1240,SFO,CVG,Frontier Airlines,117.17105,1,2036.2509761925492,"San Francisco, CA","Cincinnati, OH",3420
+1241,SFO,CVG,United Airlines,288.504,0,2036.2509761925492,"San Francisco, CA","Cincinnati, OH",100
+1242,SFO,CVG,United Airlines,253.53050000000002,1,2036.2509761925492,"San Francisco, CA","Cincinnati, OH",600
+1307,SFO,CLE,United Airlines,392.39639999999997,0,2161.135518870053,"San Francisco, CA","Cleveland, OH",250
+1308,SJC,CLE,Southwest Airlines,257.58438,0,2144.084311183746,"San Jose, CA","Cleveland, OH",320
+1309,SFO,CLE,Southwest Airlines,225.23447999999996,0,2161.135518870053,"San Francisco, CA","Cleveland, OH",580
+1310,SFO,CLE,Frontier Airlines,102.81521000000001,1,2161.135518870053,"San Francisco, CA","Cleveland, OH",1380
+1311,SFO,CLE,United Airlines,291.61487,1,2161.135518870053,"San Francisco, CA","Cleveland, OH",3850
+1312,OAK,CLE,Southwest Airlines,306.30813,0,2150.785610961188,"Oakland, CA","Cleveland, OH",640
+1313,SMF,CLE,Southwest Airlines,248.926,1,2096.647914544586,"Sacramento, CA","Cleveland, OH",100
+1314,SMF,CLE,Southwest Airlines,286.77411,0,2096.647914544586,"Sacramento, CA","Cleveland, OH",510
+1315,SMF,CLE,American Airlines,357.75001000000003,0,2096.647914544586,"Sacramento, CA","Cleveland, OH",100
+1322,SFO,COS,Frontier Airlines,58.605266,1,963.8037693310613,"San Francisco, CA","Colorado Springs, CO",190
+1384,SFO,CMH,United Airlines,324.98896,0,2119.900911238206,"San Francisco, CA","Columbus, OH",190
+1385,SFO,CMH,American Airlines,288.63332,0,2119.900911238206,"San Francisco, CA","Columbus, OH",120
+1386,OAK,CMH,Southwest Airlines,265.58285,1,2109.757265868202,"Oakland, CA","Columbus, OH",1930
+1387,SMF,CMH,American Airlines,305.38502,0,2058.4268229852787,"Sacramento, CA","Columbus, OH",220
+1388,SJC,CMH,American Airlines,309.32791000000003,0,2101.598904481888,"San Jose, CA","Columbus, OH",240
+1389,SJC,CMH,Southwest Airlines,259.49202,0,2101.598904481888,"San Jose, CA","Columbus, OH",300
+1390,OAK,CMH,Southwest Airlines,286.05726000000004,0,2109.757265868202,"Oakland, CA","Columbus, OH",400
+1391,SFO,CMH,Southwest Airlines,263.7609,0,2119.900911238206,"San Francisco, CA","Columbus, OH",330
+1392,SMF,CMH,Southwest Airlines,291.60082,0,2058.4268229852787,"Sacramento, CA","Columbus, OH",600
+1393,SFO,CMH,Delta Air Lines,268.58802000000003,0,2119.900911238206,"San Francisco, CA","Columbus, OH",100
+1540,SJC,DAL,Southwest Airlines,260.27419999999995,0,1449.742566656777,"San Jose, CA","Dallas, TX",380
+1541,SMF,DFW,American Airlines,227.68927000000002,1,1430.923632473458,"Sacramento, CA","Dallas/Fort Worth, TX",6480
+1542,SFO,DFW,United Airlines,202.54724,1,1464.405197912385,"San Francisco, CA","Dallas/Fort Worth, TX",3780
+1543,SMF,DAL,Southwest Airlines,256.29244,0,1442.2283615878198,"Sacramento, CA","Dallas, TX",1220
+1544,SJC,DAL,Southwest Airlines,225.77717,1,1449.742566656777,"San Jose, CA","Dallas, TX",1980
+1545,OAK,DFW,American Airlines,303.0,0,1456.63743064172,"Oakland, CA","Dallas/Fort Worth, TX",110
+1546,SFO,DFW,American Airlines,189.95578,1,1464.405197912385,"San Francisco, CA","Dallas/Fort Worth, TX",12870
+1547,SMF,DFW,American Airlines,234.18386000000004,0,1430.923632473458,"Sacramento, CA","Dallas/Fort Worth, TX",130
+1548,OAK,DAL,Southwest Airlines,235.62898999999996,0,1467.9830252258512,"Oakland, CA","Dallas, TX",490
+1549,SFO,DAL,Virgin America,177.39267,1,1475.75352841822,"San Francisco, CA","Dallas, TX",6080
+1550,OAK,DFW,Spirit Air Lines,57.926029,1,1456.63743064172,"Oakland, CA","Dallas/Fort Worth, TX",2090
+1551,OAK,DAL,Southwest Airlines,177.31967,1,1467.9830252258512,"Oakland, CA","Dallas, TX",6060
+1552,SFO,DAL,Alaska Airlines,119.26851,1,1475.75352841822,"San Francisco, CA","Dallas, TX",1080
+1553,SJC,DFW,American Airlines,227.97717999999998,1,1438.389803223077,"San Jose, CA","Dallas/Fort Worth, TX",5930
+1554,SFO,DAL,Southwest Airlines,152.12593999999999,1,1475.75352841822,"San Francisco, CA","Dallas, TX",2420
+1555,OAK,DFW,Spirit Air Lines,99.133635,0,1456.63743064172,"Oakland, CA","Dallas/Fort Worth, TX",110
+1556,SMF,DAL,Southwest Airlines,242.19096000000002,1,1442.2283615878198,"Sacramento, CA","Dallas, TX",2190
+1570,SMF,DAY,Southwest Airlines,285.49666,0,1990.150657211185,"Sacramento, CA","Dayton, OH",120
+1571,OAK,DAY,Southwest Airlines,287.24998999999997,0,2040.9798896756008,"Oakland, CA","Dayton, OH",100
+1578,SFO,DAB,Delta Air Lines,322.53845,0,2437.510662347565,"San Francisco, CA","Daytona Beach, FL",130
+1706,SFO,DEN,United Airlines,183.68598999999998,1,967.1252501525571,"San Francisco, CA","Denver, CO",20560
+1707,SFO,DEN,Frontier Airlines,90.38434600000001,1,967.1252501525571,"San Francisco, CA","Denver, CO",4280
+1708,SMF,DEN,Southwest Airlines,219.59629,1,909.245035920824,"Sacramento, CA","Denver, CO",8930
+1709,SFO,DEN,Southwest Airlines,150.44476,1,967.1252501525571,"San Francisco, CA","Denver, CO",6540
+1710,OAK,DEN,Spirit Air Lines,102.32000000000001,0,957.1629135927175,"Oakland, CA","Denver, CO",150
+1711,SMF,DEN,Southwest Airlines,204.82633000000004,0,909.245035920824,"Sacramento, CA","Denver, CO",790
+1712,SJC,DEN,United Airlines,215.77467999999996,1,948.0632071379936,"San Jose, CA","Denver, CO",3240
+1713,SFO,DEN,American Airlines,220.644,0,967.1252501525571,"San Francisco, CA","Denver, CO",100
+1714,SFO,DEN,Southwest Airlines,169.135,0,967.1252501525571,"San Francisco, CA","Denver, CO",180
+1715,SFO,DEN,Virgin America,139.96216,1,967.1252501525571,"San Francisco, CA","Denver, CO",7530
+1716,SFO,DEN,Alaska Airlines,110.82642,1,967.1252501525571,"San Francisco, CA","Denver, CO",1930
+1717,SMF,DEN,United Airlines,213.41021000000003,1,909.245035920824,"Sacramento, CA","Denver, CO",2490
+1718,SFO,DEN,Delta Air Lines,144.20832000000001,0,967.1252501525571,"San Francisco, CA","Denver, CO",120
+1719,SJC,DEN,Southwest Airlines,207.53817999999998,0,948.0632071379936,"San Jose, CA","Denver, CO",220
+1720,OAK,DEN,Southwest Airlines,183.08198,1,957.1629135927175,"Oakland, CA","Denver, CO",12360
+1721,OAK,DEN,Delta Air Lines,159.41667999999999,0,957.1629135927175,"Oakland, CA","Denver, CO",180
+1722,SJC,DEN,Southwest Airlines,192.68743,1,948.0632071379936,"San Jose, CA","Denver, CO",7680
+1723,SMF,DEN,Delta Air Lines,178.0,0,909.245035920824,"Sacramento, CA","Denver, CO",110
+1724,OAK,DEN,Southwest Airlines,230.75777999999997,0,957.1629135927175,"Oakland, CA","Denver, CO",360
+1751,SMF,DSM,United Airlines,259.38234,0,1486.016492072944,"Sacramento, CA","Des Moines, IA",170
+1752,OAK,DSM,Southwest Airlines,233.58622000000003,0,1539.0972422353302,"Oakland, CA","Des Moines, IA",290
+1753,SFO,DSM,American Airlines,228.52731,0,1549.393760605119,"San Francisco, CA","Des Moines, IA",260
+1754,SFO,DSM,United Airlines,248.26612,0,1549.393760605119,"San Francisco, CA","Des Moines, IA",620
+1755,SMF,DSM,American Airlines,242.14621,0,1486.016492072944,"Sacramento, CA","Des Moines, IA",210
+1756,SJC,DSM,Southwest Airlines,213.09421000000003,0,1532.06760784758,"San Jose, CA","Des Moines, IA",190
+1883,SFO,DTW,Delta Air Lines,375.48952,0,2078.758438459997,"San Francisco, CA","Detroit, MI",210
+1884,SMF,DTW,Southwest Airlines,286.67574,0,2012.9709624166778,"Sacramento, CA","Detroit, MI",610
+1885,SMF,DTW,Delta Air Lines,394.02883,0,2012.9709624166778,"Sacramento, CA","Detroit, MI",170
+1886,OAK,DTW,American Airlines,264.27273999999994,0,2068.322209327849,"Oakland, CA","Detroit, MI",110
+1887,SMF,DTW,American Airlines,307.95138,0,2012.9709624166778,"Sacramento, CA","Detroit, MI",290
+1888,SFO,DTW,Southwest Airlines,230.15515999999997,0,2078.758438459997,"San Francisco, CA","Detroit, MI",580
+1889,SFO,DTW,American Airlines,266.83619,0,2078.758438459997,"San Francisco, CA","Detroit, MI",420
+1890,SFO,DTW,Delta Air Lines,368.37212999999997,1,2078.758438459997,"San Francisco, CA","Detroit, MI",9240
+1891,SFO,DTW,United Airlines,321.00928,1,2078.758438459997,"San Francisco, CA","Detroit, MI",680
+1892,SJC,DTW,Delta Air Lines,306.85715999999996,0,2062.310025306584,"San Jose, CA","Detroit, MI",420
+1893,SFO,DTW,Southwest Airlines,223.09665999999999,1,2078.758438459997,"San Francisco, CA","Detroit, MI",120
+1894,OAK,DTW,Southwest Airlines,263.28495,0,2068.322209327849,"Oakland, CA","Detroit, MI",1110
+1895,OAK,DTW,Spirit Air Lines,121.36194,1,2068.322209327849,"Oakland, CA","Detroit, MI",1660
+1896,SMF,DTW,United Airlines,348.01917000000003,0,2012.9709624166778,"Sacramento, CA","Detroit, MI",120
+1897,OAK,DTW,Delta Air Lines,298.70265,0,2068.322209327849,"Oakland, CA","Detroit, MI",190
+1898,SJC,DTW,Southwest Airlines,270.77023999999994,0,2062.310025306584,"San Jose, CA","Detroit, MI",440
+1899,SJC,DTW,American Airlines,308.40561,0,2062.310025306584,"San Jose, CA","Detroit, MI",410
+1900,SFO,DTW,United Airlines,309.03234,0,2078.758438459997,"San Francisco, CA","Detroit, MI",340
+1901,SJC,DTW,United Airlines,316.51001,0,2062.310025306584,"San Jose, CA","Detroit, MI",160
+1946,SMF,ELP,Southwest Airlines,248.03782,1,980.8456377416638,"Sacramento, CA","El Paso, TX",230
+1947,OAK,ELP,Southwest Airlines,239.79156,0,987.4972234558256,"Oakland, CA","El Paso, TX",580
+1948,OAK,ELP,Allegiant Air,53.053921,1,987.4972234558256,"Oakland, CA","El Paso, TX",1020
+1949,SJC,ELP,Southwest Airlines,226.55062999999998,0,964.2014668038803,"San Jose, CA","El Paso, TX",480
+1950,SFO,ELP,Southwest Airlines,221.07291,0,993.1531595946183,"San Francisco, CA","El Paso, TX",240
+1951,SJC,ELP,Southwest Airlines,254.40092,1,964.2014668038803,"San Jose, CA","El Paso, TX",110
+1952,SMF,ELP,Southwest Airlines,229.89062999999996,0,980.8456377416638,"Sacramento, CA","El Paso, TX",320
+1978,SFO,GRR,Delta Air Lines,342.29167,0,1965.616804974757,"San Francisco, CA","Grand Rapids, MI",120
+1979,SMF,GRR,Southwest Airlines,318.93575000000004,0,1898.742047380826,"Sacramento, CA","Grand Rapids, MI",260
+1980,SFO,GRR,United Airlines,274.05832000000004,0,1965.616804974757,"San Francisco, CA","Grand Rapids, MI",240
+1981,OAK,GRR,Southwest Airlines,294.14542,0,1955.1101046334109,"Oakland, CA","Grand Rapids, MI",240
+1982,SJC,GRR,Southwest Airlines,256.61614,0,1949.706067042553,"San Jose, CA","Grand Rapids, MI",130
+1983,SFO,GRR,Southwest Airlines,260.73181999999997,0,1965.616804974757,"San Francisco, CA","Grand Rapids, MI",110
+1988,SFO,GSO,Delta Air Lines,355.33335,0,2333.4840845826857,"San Francisco, CA","Greensboro/High Point, NC",120
+1989,SJC,GSO,Delta Air Lines,302.65,0,2312.658517976811,"San Jose, CA","Greensboro/High Point, NC",100
+2001,SFO,GSP,Delta Air Lines,345.49998999999997,0,2233.258112723475,"San Francisco, CA","Greer, SC",140
+2002,OAK,GSP,Southwest Airlines,248.29791,0,2223.943466881683,"Oakland, CA","Greer, SC",240
+2068,SFO,BDL,United Airlines,281.9855,0,2624.868683388571,"San Francisco, CA","Hartford, CT",580
+2069,SMF,BDL,Southwest Airlines,331.05172999999996,0,2557.612682002782,"Sacramento, CA","Hartford, CT",290
+2070,SFO,BDL,United Airlines,391.2293700000001,1,2624.868683388571,"San Francisco, CA","Hartford, CT",310
+2071,SJC,BDL,American Airlines,321.44197999999994,0,2608.992904269581,"San Jose, CA","Hartford, CT",100
+2072,SFO,BDL,Southwest Airlines,283.40189,0,2624.868683388571,"San Francisco, CA","Hartford, CT",160
+2073,SFO,BDL,Delta Air Lines,356.27234,0,2624.868683388571,"San Francisco, CA","Hartford, CT",340
+2074,SJC,BDL,Southwest Airlines,338.09042000000005,0,2608.992904269581,"San Jose, CA","Hartford, CT",230
+2075,OAK,BDL,Southwest Airlines,320.98762999999997,0,2614.35063585722,"Oakland, CA","Hartford, CT",590
+2076,SFO,BDL,American Airlines,338.63997,0,2624.868683388571,"San Francisco, CA","Hartford, CT",260
+2216,SFO,HOU,Southwest Airlines,216.50321,0,1648.9332725408801,"San Francisco, CA","Houston, TX",1000
+2217,SMF,IAH,United Airlines,352.47860000000003,1,1609.303562667771,"Sacramento, CA","Houston, TX",1290
+2218,OAK,HOU,Southwest Airlines,251.25207999999998,1,1642.0563230081311,"Oakland, CA","Houston, TX",5310
+2219,OAK,HOU,Southwest Airlines,233.12272999999996,0,1642.0563230081311,"Oakland, CA","Houston, TX",660
+2220,SFO,IAH,American Airlines,235.37235,0,1635.219327622955,"San Francisco, CA","Houston, TX",640
+2221,SMF,HOU,Southwest Airlines,264.84263,0,1623.9937873252209,"Sacramento, CA","Houston, TX",2060
+2222,SJC,IAH,United Airlines,302.9676,1,1607.8235707294339,"San Jose, CA","Houston, TX",960
+2223,SFO,IAH,Frontier Airlines,82.000196,1,1635.219327622955,"San Francisco, CA","Houston, TX",4500
+2224,SJC,IAH,American Airlines,305.56519,0,1607.8235707294339,"San Jose, CA","Houston, TX",250
+2225,SFO,IAH,United Airlines,423.41885999999994,1,1635.219327622955,"San Francisco, CA","Houston, TX",7350
+2226,OAK,IAH,Spirit Air Lines,76.540887,1,1628.238964307154,"Oakland, CA","Houston, TX",2600
+2227,SMF,HOU,Southwest Airlines,256.1898,1,1623.9937873252209,"Sacramento, CA","Houston, TX",460
+2228,SJC,HOU,Southwest Airlines,266.30607000000003,1,1621.3833114467789,"San Jose, CA","Houston, TX",430
+2229,OAK,IAH,American Airlines,234.62501000000003,0,1628.238964307154,"Oakland, CA","Houston, TX",160
+2230,SFO,IAH,Frontier Airlines,111.83417,0,1635.219327622955,"San Francisco, CA","Houston, TX",240
+2231,SFO,IAH,United Airlines,315.48545,0,1635.219327622955,"San Francisco, CA","Houston, TX",790
+2232,SJC,HOU,Southwest Airlines,269.64216,0,1621.3833114467789,"San Jose, CA","Houston, TX",880
+2233,SMF,IAH,American Airlines,253.25272,0,1609.303562667771,"Sacramento, CA","Houston, TX",550
+2324,SJC,IND,Delta Air Lines,263.17728,0,1924.5428119936262,"San Jose, CA","Indianapolis, IN",110
+2325,SFO,IND,United Airlines,397.47633999999994,0,1943.374664218783,"San Francisco, CA","Indianapolis, IN",220
+2326,SJC,IND,Southwest Airlines,288.38978,0,1924.5428119936262,"San Jose, CA","Indianapolis, IN",930
+2327,OAK,IND,Southwest Airlines,292.07864,0,1933.331806638993,"Oakland, CA","Indianapolis, IN",960
+2328,SFO,IND,Delta Air Lines,276.91258999999997,0,1943.374664218783,"San Francisco, CA","Indianapolis, IN",230
+2329,SFO,IND,Southwest Airlines,272.27468,0,1943.374664218783,"San Francisco, CA","Indianapolis, IN",660
+2330,SJC,IND,Southwest Airlines,275.10333,1,1924.5428119936262,"San Jose, CA","Indianapolis, IN",120
+2331,SFO,IND,American Airlines,279.37331,0,1943.374664218783,"San Francisco, CA","Indianapolis, IN",150
+2332,SMF,IND,Southwest Airlines,319.78762,1,1883.3770166813501,"Sacramento, CA","Indianapolis, IN",210
+2333,SFO,IND,Frontier Airlines,176.53847,0,1943.374664218783,"San Francisco, CA","Indianapolis, IN",130
+2334,SMF,IND,Delta Air Lines,328.86999,0,1883.3770166813501,"Sacramento, CA","Indianapolis, IN",130
+2335,SMF,IND,Southwest Airlines,316.9595,0,1883.3770166813501,"Sacramento, CA","Indianapolis, IN",1210
+2336,SJC,IND,American Airlines,366.20845999999995,0,1924.5428119936262,"San Jose, CA","Indianapolis, IN",130
+2337,SFO,IND,United Airlines,348.50466,1,1943.374664218783,"San Francisco, CA","Indianapolis, IN",1560
+2338,OAK,IND,Southwest Airlines,318.82229,1,1933.331806638993,"Oakland, CA","Indianapolis, IN",260
+2339,SMF,IND,American Airlines,317.82463,0,1883.3770166813501,"Sacramento, CA","Indianapolis, IN",390
+2399,SFO,JAX,Delta Air Lines,341.56289,0,2366.145692144732,"San Francisco, CA","Jacksonville, FL",690
+2400,SMF,JAX,Delta Air Lines,375.36364,0,2324.281361163992,"Sacramento, CA","Jacksonville, FL",110
+2401,SMF,JAX,Southwest Airlines,328.45523000000003,0,2324.281361163992,"Sacramento, CA","Jacksonville, FL",230
+2402,SJC,JAX,Delta Air Lines,353.0111799999999,0,2341.717128942161,"San Jose, CA","Jacksonville, FL",170
+2403,SMF,JAX,United Airlines,277.01234999999997,0,2324.281361163992,"Sacramento, CA","Jacksonville, FL",170
+2404,SFO,JAX,American Airlines,281.45471,0,2366.145692144732,"San Francisco, CA","Jacksonville, FL",340
+2405,SMF,JAX,American Airlines,379.96148999999997,0,2324.281361163992,"Sacramento, CA","Jacksonville, FL",200
+2406,SFO,JAX,United Airlines,294.09699,0,2366.145692144732,"San Francisco, CA","Jacksonville, FL",100
+2407,OAK,JAX,Southwest Airlines,321.385,0,2357.648081550785,"Oakland, CA","Jacksonville, FL",340
+2512,OAK,MCI,Delta Air Lines,239.36362,0,1489.02186350853,"Oakland, CA","Kansas City, MO",110
+2513,SMF,MCI,Southwest Airlines,238.35888,1,1442.040563393276,"Sacramento, CA","Kansas City, MO",270
+2514,OAK,MCI,Southwest Airlines,236.55131000000003,1,1489.02186350853,"Oakland, CA","Kansas City, MO",3600
+2515,SMF,MCI,Southwest Airlines,244.91551,0,1442.040563393276,"Sacramento, CA","Kansas City, MO",1850
+2516,SJC,MCI,Southwest Airlines,177.34847,1,1479.011658290177,"San Jose, CA","Kansas City, MO",130
+2517,SFO,MCI,United Airlines,304.04711,1,1498.848646435122,"San Francisco, CA","Kansas City, MO",1390
+2518,SMF,MCI,American Airlines,277.17185,0,1442.040563393276,"Sacramento, CA","Kansas City, MO",490
+2519,SFO,MCI,Southwest Airlines,272.59142,1,1498.848646435122,"San Francisco, CA","Kansas City, MO",140
+2520,SMF,MCI,Delta Air Lines,238.89999,0,1442.040563393276,"Sacramento, CA","Kansas City, MO",100
+2521,SJC,MCI,Southwest Airlines,237.29515,0,1479.011658290177,"San Jose, CA","Kansas City, MO",970
+2522,SMF,MCI,American Airlines,222.11563999999998,1,1442.040563393276,"Sacramento, CA","Kansas City, MO",160
+2523,SFO,MCI,Southwest Airlines,215.64019000000002,0,1498.848646435122,"San Francisco, CA","Kansas City, MO",520
+2524,SJC,MCI,American Airlines,264.75763,0,1479.011658290177,"San Jose, CA","Kansas City, MO",210
+2525,OAK,MCI,Southwest Airlines,282.35357000000005,0,1489.02186350853,"Oakland, CA","Kansas City, MO",390
+2526,SFO,MCI,American Airlines,262.64737,0,1498.848646435122,"San Francisco, CA","Kansas City, MO",190
+2683,SMF,LAS,Southwest Airlines,183.08824,0,397.43453497759185,"Sacramento, CA","Las Vegas, NV",510
+2684,MRY,LAS,Allegiant Air,69.247496,1,374.8258979290704,"Monterey, CA","Las Vegas, NV",2000
+2685,SFO,LAS,Southwest Airlines,104.69629,1,414.0067148508,"San Francisco, CA","Las Vegas, NV",18860
+2686,SFO,LAS,JetBlue Airways,97.953391,1,414.0067148508,"San Francisco, CA","Las Vegas, NV",6040
+2687,OAK,LAS,Allegiant Air,75.031745,1,407.39127042495585,"Oakland, CA","Las Vegas, NV",3780
+2688,SMF,LAS,Southwest Airlines,174.25606,1,397.43453497759185,"Sacramento, CA","Las Vegas, NV",26630
+2689,SFO,LAS,Virgin America,126.91794999999999,1,414.0067148508,"San Francisco, CA","Las Vegas, NV",24430
+2690,OAK,LAS,Spirit Air Lines,62.339574,1,407.39127042495585,"Oakland, CA","Las Vegas, NV",9640
+2691,SJC,LAS,JetBlue Airways,120.40908000000002,0,386.3272917170696,"San Jose, CA","Las Vegas, NV",220
+2692,SFO,LAS,Alaska Airlines,91.632873,1,414.0067148508,"San Francisco, CA","Las Vegas, NV",4660
+2693,SJC,LAS,Southwest Airlines,161.8417,0,386.3272917170696,"San Jose, CA","Las Vegas, NV",760
+2694,SMF,LAS,JetBlue Airways,155.38461,0,397.43453497759185,"Sacramento, CA","Las Vegas, NV",520
+2695,SJC,LAS,Southwest Airlines,128.27777,1,386.3272917170696,"San Jose, CA","Las Vegas, NV",39240
+2696,STS,LAS,Allegiant Air,52.660131,1,453.9139488005611,"Santa Rosa, CA","Las Vegas, NV",1530
+2697,OAK,LAS,JetBlue Airways,139.03126,0,407.39127042495585,"Oakland, CA","Las Vegas, NV",160
+2698,SFO,LAS,Southwest Airlines,98.204744,0,414.0067148508,"San Francisco, CA","Las Vegas, NV",1370
+2699,SJC,LAS,Delta Air Lines,128.84556,1,386.3272917170696,"San Jose, CA","Las Vegas, NV",8450
+2700,SFO,LAS,United Airlines,135.40008,1,414.0067148508,"San Francisco, CA","Las Vegas, NV",24300
+2701,SCK,LAS,Allegiant Air,75.782824,1,359.0773398349373,"Stockton, CA","Las Vegas, NV",11350
+2702,OAK,LAS,Southwest Airlines,132.75055,1,407.39127042495585,"Oakland, CA","Las Vegas, NV",40120
+2703,OAK,LAS,Southwest Airlines,139.17824,0,407.39127042495585,"Oakland, CA","Las Vegas, NV",680
+2742,SMF,LIT,Southwest Airlines,263.90555,0,1645.840441019328,"Sacramento, CA","Little Rock, AR",630
+2743,OAK,LIT,Southwest Airlines,243.5483,0,1681.1634426696248,"Oakland, CA","Little Rock, AR",350
+2744,SJC,LIT,Southwest Airlines,250.10715000000002,0,1666.176626663264,"San Jose, CA","Little Rock, AR",280
+2745,SFO,LIT,Southwest Airlines,268.36897999999997,0,1689.9062699373678,"San Francisco, CA","Little Rock, AR",200
+3005,SMF,LGB,JetBlue Airways,109.32316999999998,1,387.2217466209197,"Sacramento, CA","Long Beach, CA",8030
+3006,SFO,SNA,Skywest Airlines,101.37013000000002,1,371.7072806732961,"San Francisco, CA","Santa Ana, CA",770
+3007,SMF,LAX,American Airlines,132.31355,1,372.684348216565,"Sacramento, CA","Los Angeles, CA",1180
+3008,SFO,LAX,Southwest Airlines,112.3076,1,337.4551500911988,"San Francisco, CA","Los Angeles, CA",14790
+3009,SMF,BUR,Southwest Airlines,165.06006000000002,1,358.3791813329551,"Sacramento, CA","Burbank, CA",19530
+3010,SJC,SNA,Southwest Airlines,128.65393,1,341.9759045930273,"San Jose, CA","Santa Ana, CA",26310
+3011,OAK,LAX,Delta Air Lines,122.56103999999999,1,337.12009355925863,"Oakland, CA","Los Angeles, CA",2130
+3012,SMF,SNA,Southwest Airlines,162.0914,1,403.75107317190236,"Sacramento, CA","Santa Ana, CA",25830
+3013,OAK,LAX,Southwest Airlines,114.47864999999999,1,337.12009355925863,"Oakland, CA","Los Angeles, CA",33380
+3014,SJC,LAX,American Airlines,133.9036,1,307.93217257576464,"San Jose, CA","Los Angeles, CA",2230
+3015,MRY,LAX,United Airlines,136.76811,1,266.3346771048639,"Monterey, CA","Los Angeles, CA",2070
+3016,OAK,SNA,Southwest Airlines,147.00371,1,371.0012796739702,"Oakland, CA","Santa Ana, CA",25580
+3017,MRY,LAX,Alaska Airlines,119.31818999999999,1,266.3346771048639,"Monterey, CA","Los Angeles, CA",110
+3018,SFO,LAX,American Airlines,136.40275,1,337.4551500911988,"San Francisco, CA","Los Angeles, CA",5450
+3019,SJC,LAX,Southwest Airlines,123.52901,1,307.93217257576464,"San Jose, CA","Los Angeles, CA",21200
+3020,SJC,BUR,Southwest Airlines,122.34025,1,296.1979953141891,"San Jose, CA","Burbank, CA",18560
+3021,SFO,ONT,United Airlines,146.49403,1,363.4648114267483,"San Francisco, CA","Ontario, CA",5030
+3022,SFO,LAX,Alaska Airlines,90.413237,1,337.4551500911988,"San Francisco, CA","Los Angeles, CA",2190
+3023,STS,SNA,Alaska Airlines,141.32837999999998,1,433.0298787436812,"Santa Rosa, CA","Santa Ana, CA",2360
+3024,SMF,LAX,Southwest Airlines,129.6578,1,372.684348216565,"Sacramento, CA","Los Angeles, CA",20720
+3025,OAK,ONT,Southwest Airlines,137.13336,1,361.8876845067264,"Oakland, CA","Ontario, CA",14510
+3026,OAK,BUR,Southwest Airlines,141.01926000000003,1,325.18809358913535,"Oakland, CA","Burbank, CA",30630
+3027,SJC,BUR,Skywest Airlines,85.936463,1,296.1979953141891,"San Jose, CA","Burbank, CA",3620
+3028,OAK,LGB,JetBlue Airways,90.32556999999998,1,353.05961848830805,"Oakland, CA","Long Beach, CA",13530
+3029,SJC,ONT,Southwest Airlines,124.85111,1,333.3775213931225,"San Jose, CA","Ontario, CA",9000
+3030,SFO,LAX,United Airlines,141.47742,1,337.4551500911988,"San Francisco, CA","Los Angeles, CA",19930
+3031,SFO,LAX,Virgin America,133.83805,1,337.4551500911988,"San Francisco, CA","Los Angeles, CA",21240
+3032,SJC,LAX,Delta Air Lines,125.32865,1,307.93217257576464,"San Jose, CA","Los Angeles, CA",3560
+3033,SFO,SNA,Southwest Airlines,110.39518,1,371.7072806732961,"San Francisco, CA","Santa Ana, CA",13600
+3034,SFO,LGB,JetBlue Airways,89.71144,1,353.58213929298483,"San Francisco, CA","Long Beach, CA",12320
+3035,SFO,BUR,United Airlines,170.68182000000002,1,325.9781797240757,"San Francisco, CA","Burbank, CA",3190
+3036,SFO,SNA,United Airlines,148.40037999999998,1,371.7072806732961,"San Francisco, CA","Santa Ana, CA",10690
+3037,SJC,SNA,Alaska Airlines,116.37146,1,341.9759045930273,"San Jose, CA","Santa Ana, CA",4940
+3038,OAK,LAX,Spirit Air Lines,53.426576000000004,1,337.12009355925863,"Oakland, CA","Los Angeles, CA",6810
+3039,STS,LAX,Alaska Airlines,131.87221000000002,1,399.5274065048931,"Santa Rosa, CA","Los Angeles, CA",4480
+3040,SMF,LAX,Delta Air Lines,125.78598000000001,1,372.684348216565,"Sacramento, CA","Los Angeles, CA",2710
+3041,SFO,LAX,Delta Air Lines,124.52309,1,337.4551500911988,"San Francisco, CA","Los Angeles, CA",4330
+3042,SMF,ONT,Southwest Airlines,157.30121000000003,1,389.54197611315493,"Sacramento, CA","Ontario, CA",18160
+3043,SMF,LAX,United Airlines,150.11482,1,372.684348216565,"Sacramento, CA","Los Angeles, CA",560
+3044,OAK,LGB,Southwest Airlines,90.139478,1,353.05961848830805,"Oakland, CA","Long Beach, CA",10790
+3045,SJC,LGB,JetBlue Airways,84.435844,1,323.9491959153031,"San Jose, CA","Long Beach, CA",12860
+3046,SFO,BUR,Southwest Airlines,114.40834,1,325.9781797240757,"San Francisco, CA","Burbank, CA",6000
+3087,SJC,SDF,Southwest Airlines,288.35785,0,1969.536413677371,"San Jose, CA","Louisville, KY",420
+3088,SFO,SDF,Southwest Airlines,315.68635,0,1989.6102275509602,"San Francisco, CA","Louisville, KY",300
+3089,SMF,SDF,Southwest Airlines,349.22248999999994,0,1932.974298985707,"Sacramento, CA","Louisville, KY",400
+3090,OAK,SDF,Southwest Airlines,310.62424,0,1979.823324750195,"Oakland, CA","Louisville, KY",590
+3108,SJC,MSN,United Airlines,354.69232,0,1756.598023914412,"San Jose, CA","Madison, WI",130
+3109,SFO,MSN,Delta Air Lines,299.43182,0,1772.2526279324911,"San Francisco, CA","Madison, WI",220
+3110,SFO,MSN,United Airlines,311.84847,0,1772.2526279324911,"San Francisco, CA","Madison, WI",330
+3151,SMF,MEM,Southwest Airlines,289.75293999999997,0,1760.714320531729,"Sacramento, CA","Memphis, TN",170
+3152,OAK,MEM,Southwest Airlines,286.87601,0,1798.316196203956,"Oakland, CA","Memphis, TN",400
+3153,SMF,MEM,American Airlines,294.61637,0,1760.714320531729,"Sacramento, CA","Memphis, TN",220
+3154,SFO,MEM,American Airlines,264.88364,0,1807.272748142976,"San Francisco, CA","Memphis, TN",110
+3155,SFO,MEM,United Airlines,266.19077,0,1807.272748142976,"San Francisco, CA","Memphis, TN",130
+3156,SFO,MEM,Delta Air Lines,331.42002,0,1807.272748142976,"San Francisco, CA","Memphis, TN",370
+3157,SJC,MEM,Southwest Airlines,288.74667,0,1784.158311411646,"San Jose, CA","Memphis, TN",120
+3158,SJC,MEM,American Airlines,301.13442000000003,0,1784.158311411646,"San Jose, CA","Memphis, TN",270
+3374,SFO,FLL,Virgin America,184.46645,0,2583.5282083377897,"San Francisco, CA","Fort Lauderdale, FL",450
+3375,SFO,FLL,United Airlines,227.40302000000003,1,2583.5282083377897,"San Francisco, CA","Fort Lauderdale, FL",2460
+3376,SFO,FLL,Delta Air Lines,237.70111000000003,0,2583.5282083377897,"San Francisco, CA","Fort Lauderdale, FL",360
+3377,SFO,MIA,Delta Air Lines,295.64513999999997,0,2585.010598372008,"San Francisco, CA","Miami, FL",350
+3378,SFO,PBI,American Airlines,270.56501000000003,0,2566.6046521492567,"San Francisco, CA","West Palm Beach/Palm Beach, FL",280
+3379,SJC,MIA,American Airlines,317.51543999999996,0,2558.770049784242,"San Jose, CA","Miami, FL",110
+3380,SJC,FLL,Southwest Airlines,284.89373,0,2557.419789632034,"San Jose, CA","Fort Lauderdale, FL",240
+3381,SFO,PBI,Delta Air Lines,308.92334,0,2566.6046521492567,"San Francisco, CA","West Palm Beach/Palm Beach, FL",330
+3382,SMF,FLL,United Airlines,275.40133,1,2549.3172979060378,"Sacramento, CA","Fort Lauderdale, FL",150
+3383,SFO,MIA,United Airlines,262.19604,1,2585.010598372008,"San Francisco, CA","Miami, FL",4290
+3384,SFO,MIA,American Airlines,264.32581,1,2585.010598372008,"San Francisco, CA","Miami, FL",7540
+3385,SFO,FLL,Virgin America,251.16982000000004,1,2583.5282083377897,"San Francisco, CA","Fort Lauderdale, FL",3820
+3386,SMF,FLL,Southwest Airlines,292.55869,0,2549.3172979060378,"Sacramento, CA","Fort Lauderdale, FL",680
+3387,OAK,FLL,Spirit Air Lines,174.07401000000002,0,2575.778395425587,"Oakland, CA","Fort Lauderdale, FL",100
+3388,SMF,MIA,United Airlines,291.24088,0,2551.486107182612,"Sacramento, CA","Miami, FL",230
+3389,SJC,MIA,Delta Air Lines,253.01666000000003,0,2558.770049784242,"San Jose, CA","Miami, FL",120
+3390,SMF,PBI,American Airlines,354.22683,0,2531.13256329711,"Sacramento, CA","West Palm Beach/Palm Beach, FL",190
+3391,SJC,FLL,American Airlines,308.70001,0,2557.419789632034,"San Jose, CA","Fort Lauderdale, FL",150
+3392,SJC,PBI,American Airlines,302.62748999999997,0,2540.747326070488,"San Jose, CA","West Palm Beach/Palm Beach, FL",120
+3393,SMF,PBI,Delta Air Lines,474.27273,0,2531.13256329711,"Sacramento, CA","West Palm Beach/Palm Beach, FL",110
+3394,SFO,FLL,United Airlines,250.47486,0,2583.5282083377897,"San Francisco, CA","Fort Lauderdale, FL",1050
+3395,OAK,FLL,Southwest Airlines,330.98166,0,2575.778395425587,"Oakland, CA","Fort Lauderdale, FL",540
+3396,SFO,FLL,Alaska Airlines,188.05256999999997,1,2583.5282083377897,"San Francisco, CA","Fort Lauderdale, FL",780
+3397,SFO,FLL,JetBlue Airways,257.2526,1,2583.5282083377897,"San Francisco, CA","Fort Lauderdale, FL",4810
+3398,SMF,MIA,American Airlines,334.93698,0,2551.486107182612,"Sacramento, CA","Miami, FL",730
+3399,SMF,FLL,United Airlines,255.67667000000003,0,2549.3172979060378,"Sacramento, CA","Fort Lauderdale, FL",270
+3400,SFO,MIA,American Airlines,269.6121,0,2585.010598372008,"San Francisco, CA","Miami, FL",620
+3401,SJC,MIA,United Airlines,281.63846,0,2558.770049784242,"San Jose, CA","Miami, FL",130
+3402,SMF,FLL,American Airlines,366.5678,0,2549.3172979060378,"Sacramento, CA","Fort Lauderdale, FL",410
+3403,SFO,FLL,Southwest Airlines,250.92776000000003,0,2583.5282083377897,"San Francisco, CA","Fort Lauderdale, FL",310
+3404,SMF,MIA,Delta Air Lines,363.82388999999995,0,2551.486107182612,"Sacramento, CA","Miami, FL",180
+3405,SFO,FLL,American Airlines,322.44134,0,2583.5282083377897,"San Francisco, CA","Fort Lauderdale, FL",150
+3406,SFO,MIA,United Airlines,255.16424,0,2585.010598372008,"San Francisco, CA","Miami, FL",730
+3407,SMF,FLL,Delta Air Lines,365.39285,0,2549.3172979060378,"Sacramento, CA","Fort Lauderdale, FL",140
+3482,SFO,MKE,Southwest Airlines,292.40088000000003,0,1845.0942563892982,"San Francisco, CA","Milwaukee, WI",230
+3483,SMF,MKE,American Airlines,246.36058999999997,0,1778.2078072522847,"Sacramento, CA","Milwaukee, WI",170
+3484,OAK,MKE,Southwest Airlines,242.06842999999995,0,1834.5837959014539,"Oakland, CA","Milwaukee, WI",700
+3485,SFO,MKE,Delta Air Lines,283.62917999999996,0,1845.0942563892982,"San Francisco, CA","Milwaukee, WI",240
+3486,SFO,MKE,United Airlines,271.94674000000003,0,1845.0942563892982,"San Francisco, CA","Milwaukee, WI",400
+3487,SMF,MKE,Southwest Airlines,258.74162,0,1778.2078072522847,"Sacramento, CA","Milwaukee, WI",680
+3488,SMF,MKE,Delta Air Lines,290.625,0,1778.2078072522847,"Sacramento, CA","Milwaukee, WI",120
+3489,SJC,MKE,Southwest Airlines,243.21658999999997,0,1829.2262997208709,"San Jose, CA","Milwaukee, WI",410
+3490,SFO,MKE,Southwest Airlines,228.06406000000004,1,1845.0942563892982,"San Francisco, CA","Milwaukee, WI",2560
+3491,SMF,MKE,Southwest Airlines,277.48096000000004,1,1778.2078072522847,"Sacramento, CA","Milwaukee, WI",210
+3492,OAK,MKE,Southwest Airlines,194.45,1,1834.5837959014539,"Oakland, CA","Milwaukee, WI",100
+3626,SJC,MSP,Delta Air Lines,349.78317999999996,0,1575.4580172947021,"San Jose, CA","Minneapolis, MN",220
+3627,SMF,MSP,American Airlines,242.43,0,1517.4355484286402,"Sacramento, CA","Minneapolis, MN",690
+3628,SFO,MSP,Delta Air Lines,192.65364,0,1588.878196421861,"San Francisco, CA","Minneapolis, MN",110
+3629,SFO,MSP,Sun Country Airlines,189.35715,1,1588.878196421861,"San Francisco, CA","Minneapolis, MN",5460
+3630,OAK,MSP,Southwest Airlines,274.11609,0,1578.110667651202,"Oakland, CA","Minneapolis, MN",820
+3631,SFO,MSP,American Airlines,298.85736,0,1588.878196421861,"San Francisco, CA","Minneapolis, MN",190
+3632,SFO,MSP,United Airlines,252.79133,1,1588.878196421861,"San Francisco, CA","Minneapolis, MN",3590
+3633,SFO,MSP,Delta Air Lines,248.08787999999998,1,1588.878196421861,"San Francisco, CA","Minneapolis, MN",10060
+3634,OAK,MSP,American Airlines,248.16667999999999,0,1578.110667651202,"Oakland, CA","Minneapolis, MN",120
+3635,SJC,MSP,Southwest Airlines,258.61511,0,1575.4580172947021,"San Jose, CA","Minneapolis, MN",430
+3636,SJC,MSP,Delta Air Lines,269.00222,1,1575.4580172947021,"San Jose, CA","Minneapolis, MN",2430
+3637,SJC,MSP,American Airlines,263.20667000000003,0,1575.4580172947021,"San Jose, CA","Minneapolis, MN",240
+3638,SFO,MSP,Southwest Airlines,251.53951999999998,0,1588.878196421861,"San Francisco, CA","Minneapolis, MN",210
+3639,SMF,MSP,Delta Air Lines,274.88756,0,1517.4355484286402,"Sacramento, CA","Minneapolis, MN",370
+3640,SMF,MSP,Delta Air Lines,291.98162999999994,1,1517.4355484286402,"Sacramento, CA","Minneapolis, MN",3150
+3641,SMF,MSP,Southwest Airlines,314.82785,0,1517.4355484286402,"Sacramento, CA","Minneapolis, MN",700
+3730,SFO,BNA,Southwest Airlines,252.24361000000002,0,1968.475469862715,"San Francisco, CA","Nashville, TN",580
+3731,OAK,BNA,Southwest Airlines,258.46567000000005,1,1959.1171727340509,"Oakland, CA","Nashville, TN",3360
+3732,SMF,BNA,American Airlines,414.71071000000006,0,1917.143281420588,"Sacramento, CA","Nashville, TN",290
+3733,SJC,BNA,American Airlines,335.99998999999997,0,1946.6812669494602,"San Jose, CA","Nashville, TN",310
+3734,SFO,BNA,Delta Air Lines,375.63812999999993,0,1968.475469862715,"San Francisco, CA","Nashville, TN",160
+3735,SJC,BNA,Southwest Airlines,284.24667999999997,1,1946.6812669494602,"San Jose, CA","Nashville, TN",120
+3736,OAK,BNA,Southwest Airlines,301.14574,0,1959.1171727340509,"Oakland, CA","Nashville, TN",800
+3737,SFO,BNA,United Airlines,326.75473999999997,0,1968.475469862715,"San Francisco, CA","Nashville, TN",190
+3738,SMF,BNA,Southwest Airlines,271.30959,1,1917.143281420588,"Sacramento, CA","Nashville, TN",490
+3739,SJC,BNA,Southwest Airlines,282.75237,0,1946.6812669494602,"San Jose, CA","Nashville, TN",880
+3740,SFO,BNA,United Airlines,299.55127,1,1968.475469862715,"San Francisco, CA","Nashville, TN",4020
+3741,SFO,BNA,American Airlines,318.32812,0,1968.475469862715,"San Francisco, CA","Nashville, TN",320
+3742,SMF,BNA,Southwest Airlines,273.05197999999996,0,1917.143281420588,"Sacramento, CA","Nashville, TN",2440
+3863,OAK,MSY,Spirit Air Lines,169.13599999999997,0,1903.043750006931,"Oakland, CA","New Orleans, LA",200
+3864,SJC,MSY,Southwest Airlines,255.60392999999996,1,1884.314995940214,"San Jose, CA","New Orleans, LA",330
+3865,SMF,MSY,Southwest Airlines,277.5722,0,1878.244994277821,"Sacramento, CA","New Orleans, LA",2420
+3866,OAK,MSY,Southwest Airlines,260.60965,1,1903.043750006931,"Oakland, CA","New Orleans, LA",5750
+3867,SJC,MSY,Delta Air Lines,296.62533,0,1884.314995940214,"San Jose, CA","New Orleans, LA",150
+3868,SMF,MSY,American Airlines,332.89747000000006,0,1878.244994277821,"Sacramento, CA","New Orleans, LA",470
+3869,SFO,MSY,United Airlines,330.33369,0,1910.657443774649,"San Francisco, CA","New Orleans, LA",2370
+3870,SFO,MSY,United Airlines,346.22822,1,1910.657443774649,"San Francisco, CA","New Orleans, LA",3970
+3871,OAK,MSY,Southwest Airlines,273.06995,0,1903.043750006931,"Oakland, CA","New Orleans, LA",2460
+3872,SMF,MSY,United Airlines,270.07225,0,1878.244994277821,"Sacramento, CA","New Orleans, LA",450
+3873,SMF,MSY,Southwest Airlines,220.10174,1,1878.244994277821,"Sacramento, CA","New Orleans, LA",230
+3874,SFO,MSY,Southwest Airlines,246.35882000000004,0,1910.657443774649,"San Francisco, CA","New Orleans, LA",1280
+3875,SJC,MSY,American Airlines,314.98001,0,1884.314995940214,"San Jose, CA","New Orleans, LA",250
+3876,SFO,MSY,Delta Air Lines,272.93158,0,1910.657443774649,"San Francisco, CA","New Orleans, LA",380
+3877,SJC,MSY,Southwest Airlines,254.09701,0,1884.314995940214,"San Jose, CA","New Orleans, LA",1710
+3878,SJC,MSY,United Airlines,327.13277,0,1884.314995940214,"San Jose, CA","New Orleans, LA",180
+3879,OAK,MSY,Spirit Air Lines,192.09965,1,1903.043750006931,"Oakland, CA","New Orleans, LA",290
+3880,SFO,MSY,American Airlines,278.85909,0,1910.657443774649,"San Francisco, CA","New Orleans, LA",1440
+4243,SFO,JFK,American Airlines,365.0707,0,2586.108460048054,"San Francisco, CA","New York, NY",140
+4244,SFO,JFK,JetBlue Airways,301.55692000000005,1,2586.108460048054,"San Francisco, CA","New York, NY",14680
+4245,SJC,EWR,American Airlines,372.86401,0,2548.3875141017347,"San Jose, CA","Newark, NJ",100
+4246,SMF,EWR,Delta Air Lines,446.64387999999997,0,2500.327676390121,"Sacramento, CA","Newark, NJ",180
+4247,SMF,JFK,JetBlue Airways,240.83457000000004,1,2521.111478862715,"Sacramento, CA","New York, NY",4580
+4248,SFO,JFK,Virgin America,289.01854000000003,1,2586.108460048054,"San Francisco, CA","New York, NY",16690
+4249,SFO,JFK,American Airlines,497.3259,1,2586.108460048054,"San Francisco, CA","New York, NY",4930
+4250,SFO,EWR,Southwest Airlines,314.29834,0,2565.306273282345,"San Francisco, CA","Newark, NJ",120
+4251,SJC,EWR,United Airlines,239.64688999999998,0,2548.3875141017347,"San Jose, CA","Newark, NJ",160
+4252,SMF,EWR,United Airlines,368.16883,0,2500.327676390121,"Sacramento, CA","Newark, NJ",420
+4253,OAK,LGA,Spirit Air Lines,172.75599,0,2568.999823959703,"Oakland, CA","New York, NY",150
+4254,SJC,LGA,United Airlines,260.50501,0,2562.5605035832887,"San Jose, CA","New York, NY",180
+4255,SJC,LGA,Southwest Airlines,252.75272999999996,0,2562.5605035832887,"San Jose, CA","New York, NY",220
+4256,SJC,EWR,Southwest Airlines,278.41035999999997,0,2548.3875141017347,"San Jose, CA","Newark, NJ",270
+4257,SJC,EWR,Alaska Airlines,204.88653000000002,1,2548.3875141017347,"San Jose, CA","Newark, NJ",5200
+4258,SJC,JFK,American Airlines,274.2995,0,2569.1941788107,"San Jose, CA","New York, NY",200
+4259,SMF,LGA,Delta Air Lines,319.63214999999997,0,2514.198111528432,"Sacramento, CA","New York, NY",140
+4260,SMF,EWR,United Airlines,291.70578,1,2500.327676390121,"Sacramento, CA","Newark, NJ",260
+4261,SFO,EWR,Virgin America,299.26898,1,2565.306273282345,"San Francisco, CA","Newark, NJ",10670
+4262,SJC,JFK,Delta Air Lines,242.49417999999997,0,2569.1941788107,"San Jose, CA","New York, NY",240
+4263,SFO,JFK,Sun Country Airlines,169.13043000000002,0,2586.108460048054,"San Francisco, CA","New York, NY",230
+4264,SFO,EWR,United Airlines,423.1811,1,2565.306273282345,"San Francisco, CA","Newark, NJ",41490
+4265,SFO,EWR,United Airlines,549.24388,0,2565.306273282345,"San Francisco, CA","Newark, NJ",770
+4266,SMF,JFK,American Airlines,438.30924000000005,0,2521.111478862715,"Sacramento, CA","New York, NY",130
+4267,SFO,JFK,Delta Air Lines,307.80314999999996,1,2586.108460048054,"San Francisco, CA","New York, NY",19240
+4268,SJC,EWR,United Airlines,246.5775,1,2548.3875141017347,"San Jose, CA","Newark, NJ",2480
+4269,SMF,JFK,Delta Air Lines,362.97617,0,2521.111478862715,"Sacramento, CA","New York, NY",130
+4270,SMF,EWR,American Airlines,338.90154,0,2500.327676390121,"Sacramento, CA","Newark, NJ",390
+4271,SFO,EWR,Alaska Airlines,226.44607999999997,1,2565.306273282345,"San Francisco, CA","Newark, NJ",2100
+4272,SJC,LGA,American Airlines,259.50822999999997,0,2562.5605035832887,"San Jose, CA","New York, NY",400
+4273,SFO,LGA,Delta Air Lines,243.34812000000002,0,2579.387574610412,"San Francisco, CA","New York, NY",160
+4274,SFO,EWR,Delta Air Lines,302.07144999999997,0,2565.306273282345,"San Francisco, CA","Newark, NJ",140
+4275,SMF,LGA,American Airlines,313.36532000000005,0,2514.198111528432,"Sacramento, CA","New York, NY",320
+4276,OAK,LGA,Southwest Airlines,241.32683,0,2568.999823959703,"Oakland, CA","New York, NY",950
+4277,SFO,JFK,Virgin America,228.24749999999997,0,2586.108460048054,"San Francisco, CA","New York, NY",120
+4278,SJC,EWR,Delta Air Lines,253.78043999999997,0,2548.3875141017347,"San Jose, CA","Newark, NJ",230
+4279,OAK,EWR,Southwest Airlines,267.04109000000005,0,2554.93212541609,"Oakland, CA","Newark, NJ",650
+4280,SMF,LGA,United Airlines,325.31333,0,2514.198111528432,"Sacramento, CA","New York, NY",360
+4281,SFO,EWR,American Airlines,286.54130000000004,0,2565.306273282345,"San Francisco, CA","Newark, NJ",230
+4282,SFO,LGA,United Airlines,275.45567,0,2579.387574610412,"San Francisco, CA","New York, NY",620
+4283,SMF,LGA,Southwest Airlines,292.30499000000003,0,2514.198111528432,"Sacramento, CA","New York, NY",500
+4284,SJC,LGA,Delta Air Lines,235.77355999999997,0,2562.5605035832887,"San Jose, CA","New York, NY",140
+4285,SFO,JFK,Alaska Airlines,212.20908,1,2586.108460048054,"San Francisco, CA","New York, NY",2200
+4286,SFO,LGA,American Airlines,290.08296,0,2579.387574610412,"San Francisco, CA","New York, NY",270
+4287,SMF,EWR,Southwest Airlines,307.57086,0,2500.327676390121,"Sacramento, CA","Newark, NJ",590
+4288,SMF,EWR,Southwest Airlines,294.41049,1,2500.327676390121,"Sacramento, CA","Newark, NJ",200
+4289,SMF,JFK,JetBlue Airways,310.40389999999996,0,2521.111478862715,"Sacramento, CA","New York, NY",180
+4290,OAK,EWR,Southwest Airlines,233.2541,1,2554.93212541609,"Oakland, CA","Newark, NJ",1390
+4291,SFO,LGA,Southwest Airlines,242.97112999999996,0,2579.387574610412,"San Francisco, CA","New York, NY",350
+4292,OAK,JFK,JetBlue Airways,220.47207000000003,1,2575.733456357897,"Oakland, CA","New York, NY",3120
+4293,SJC,JFK,JetBlue Airways,240.51256000000004,1,2569.1941788107,"San Jose, CA","New York, NY",3620
+4302,SFO,SRQ,Delta Air Lines,363.48865,0,2409.506401364381,"San Francisco, CA","Sarasota/Bradenton, FL",440
+4355,SJC,OKC,Southwest Airlines,242.72322999999994,0,1359.434577122014,"San Jose, CA","Oklahoma City, OK",370
+4356,SFO,OKC,Southwest Airlines,222.01619,0,1383.54927445104,"San Francisco, CA","Oklahoma City, OK",210
+4357,SFO,OKC,United Airlines,256.17418,1,1383.54927445104,"San Francisco, CA","Oklahoma City, OK",620
+4358,OAK,OKC,Southwest Airlines,247.10226000000003,0,1374.9593325666779,"Oakland, CA","Oklahoma City, OK",400
+4359,SMF,OKC,Southwest Airlines,241.71618999999998,0,1341.5190407636098,"Sacramento, CA","Oklahoma City, OK",790
+4427,SJC,OMA,Southwest Airlines,249.58456,0,1415.400472988292,"San Jose, CA","Omaha, NE",550
+4428,SFO,OMA,Southwest Airlines,252.62139000000002,0,1432.947100982136,"San Francisco, CA","Omaha, NE",290
+4429,SMF,OMA,American Airlines,284.89642000000003,0,1370.232160029813,"Sacramento, CA","Omaha, NE",140
+4430,SFO,OMA,United Airlines,256.99999,0,1432.947100982136,"San Francisco, CA","Omaha, NE",350
+4431,OAK,OMA,Southwest Airlines,226.43080000000003,0,1422.689091355538,"Oakland, CA","Omaha, NE",890
+4432,SMF,OMA,Southwest Airlines,271.23246,0,1370.232160029813,"Sacramento, CA","Omaha, NE",820
+4433,SJC,OMA,United Airlines,231.04546000000005,0,1415.400472988292,"San Jose, CA","Omaha, NE",110
+4434,SMF,OMA,United Airlines,240.56251,0,1370.232160029813,"Sacramento, CA","Omaha, NE",240
+4435,OAK,OMA,Allegiant Air,83.666664,1,1422.689091355538,"Oakland, CA","Omaha, NE",330
+4436,OAK,OMA,Southwest Airlines,217.76466000000002,1,1422.689091355538,"Oakland, CA","Omaha, NE",150
+4437,SFO,OMA,United Airlines,296.19684,1,1432.947100982136,"San Francisco, CA","Omaha, NE",540
+4621,OAK,MCO,Southwest Airlines,226.34428,1,2437.764879774239,"Oakland, CA","Orlando, FL",560
+4622,SFO,MCO,Virgin America,296.23098,0,2445.878347722207,"San Francisco, CA","Orlando, FL",410
+4623,SJC,MCO,Delta Air Lines,339.12203,0,2420.532415257625,"San Jose, CA","Orlando, FL",390
+4624,SJC,MCO,American Airlines,276.22732999999994,0,2420.532415257625,"San Jose, CA","Orlando, FL",1450
+4625,SFO,MCO,Southwest Airlines,249.0196,0,2445.878347722207,"San Francisco, CA","Orlando, FL",970
+4626,SFO,MCO,Delta Air Lines,256.41172,0,2445.878347722207,"San Francisco, CA","Orlando, FL",1460
+4627,SMF,MCO,Delta Air Lines,382.14165999999994,0,2408.021430231855,"Sacramento, CA","Orlando, FL",300
+4628,SMF,MCO,Southwest Airlines,291.60132,0,2408.021430231855,"Sacramento, CA","Orlando, FL",2120
+4629,SJC,MCO,United Airlines,271.41134999999997,0,2420.532415257625,"San Jose, CA","Orlando, FL",370
+4630,SFO,MCO,Frontier Airlines,172.6584,0,2445.878347722207,"San Francisco, CA","Orlando, FL",440
+4631,SJC,MCO,Southwest Airlines,273.86827,0,2420.532415257625,"San Jose, CA","Orlando, FL",1100
+4632,SFO,MCO,Alaska Airlines,199.55349999999999,1,2445.878347722207,"San Francisco, CA","Orlando, FL",200
+4633,SMF,MCO,American Airlines,292.75756,0,2408.021430231855,"Sacramento, CA","Orlando, FL",1650
+4634,SMF,MCO,United Airlines,287.43507999999997,0,2408.021430231855,"Sacramento, CA","Orlando, FL",490
+4635,SFO,MCO,Virgin America,267.1952,1,2445.878347722207,"San Francisco, CA","Orlando, FL",790
+4636,OAK,MCO,American Airlines,300.88460000000003,0,2437.764879774239,"Oakland, CA","Orlando, FL",260
+4637,SFO,MCO,Frontier Airlines,142.34368,1,2445.878347722207,"San Francisco, CA","Orlando, FL",5170
+4638,SMF,MCO,Southwest Airlines,266.541,1,2408.021430231855,"Sacramento, CA","Orlando, FL",400
+4639,OAK,MCO,Southwest Airlines,266.34457,0,2437.764879774239,"Oakland, CA","Orlando, FL",2030
+4640,SFO,MCO,United Airlines,295.1196,1,2445.878347722207,"San Francisco, CA","Orlando, FL",16450
+4641,SFO,MCO,Southwest Airlines,222.48545,1,2445.878347722207,"San Francisco, CA","Orlando, FL",110
+4642,SFO,MCO,American Airlines,256.60105,0,2445.878347722207,"San Francisco, CA","Orlando, FL",1040
+4643,SFO,MCO,American Airlines,216.44721,1,2445.878347722207,"San Francisco, CA","Orlando, FL",180
+4644,SFO,MCO,United Airlines,327.71628,0,2445.878347722207,"San Francisco, CA","Orlando, FL",780
+4647,SFO,MLB,Delta Air Lines,348.59092000000004,0,2492.104208608993,"San Francisco, CA","Melbourne, FL",110
+4792,SFO,PHL,United Airlines,406.6810100000001,0,2521.293769763918,"San Francisco, CA","Philadelphia, PA",400
+4793,OAK,PHL,American Airlines,350.34782999999993,0,2511.02865247589,"Oakland, CA","Philadelphia, PA",230
+4794,SMF,PHL,American Airlines,338.10328999999996,0,2457.946923469229,"Sacramento, CA","Philadelphia, PA",880
+4795,SFO,PHL,United Airlines,409.20105000000007,1,2521.293769763918,"San Francisco, CA","Philadelphia, PA",3900
+4796,SJC,PHL,Southwest Airlines,326.37589,0,2503.6752057133967,"San Jose, CA","Philadelphia, PA",340
+4797,SMF,PHL,Southwest Airlines,328.82459,0,2457.946923469229,"Sacramento, CA","Philadelphia, PA",870
+4798,OAK,PHL,Southwest Airlines,325.58968,0,2511.02865247589,"Oakland, CA","Philadelphia, PA",1010
+4799,OAK,PHL,Delta Air Lines,334.70818999999995,0,2511.02865247589,"Oakland, CA","Philadelphia, PA",110
+4800,SJC,PHL,United Airlines,317.7,0,2503.6752057133967,"San Jose, CA","Philadelphia, PA",180
+4801,SFO,PHL,American Airlines,350.00562999999994,1,2521.293769763918,"San Francisco, CA","Philadelphia, PA",9860
+4802,SMF,PHL,Southwest Airlines,336.52601000000004,1,2457.946923469229,"Sacramento, CA","Philadelphia, PA",200
+4803,SFO,PHL,Southwest Airlines,362.26285,0,2521.293769763918,"San Francisco, CA","Philadelphia, PA",140
+4804,SFO,PHL,American Airlines,330.95462,0,2521.293769763918,"San Francisco, CA","Philadelphia, PA",670
+4805,SJC,PHL,Delta Air Lines,334.53956,0,2503.6752057133967,"San Jose, CA","Philadelphia, PA",220
+4806,SMF,PHL,United Airlines,341.99634,0,2457.946923469229,"Sacramento, CA","Philadelphia, PA",300
+4807,SJC,PHL,American Airlines,315.5221,0,2503.6752057133967,"San Jose, CA","Philadelphia, PA",570
+4808,SMF,PHL,Delta Air Lines,372.1853299999999,0,2457.946923469229,"Sacramento, CA","Philadelphia, PA",150
+4809,SFO,PHL,Delta Air Lines,399.02367999999996,0,2521.293769763918,"San Francisco, CA","Philadelphia, PA",380
+4934,SMF,PHX,American Airlines,152.79818999999998,1,646.8272006633381,"Sacramento, CA","Phoenix, AZ",5730
+4935,OAK,PHX,American Airlines,162.36327,1,645.99480565183,"Oakland, CA","Phoenix, AZ",3730
+4936,SJC,PHX,Southwest Airlines,164.58608,1,621.4109270357967,"San Jose, CA","Phoenix, AZ",12130
+4937,SFO,PHX,Southwest Airlines,148.40771,0,650.9177128548561,"San Francisco, CA","Phoenix, AZ",350
+4938,SFO,PHX,American Airlines,158.90436,1,650.9177128548561,"San Francisco, CA","Phoenix, AZ",6490
+4939,OAK,PHX,Southwest Airlines,163.33755,1,645.99480565183,"Oakland, CA","Phoenix, AZ",17250
+4940,SMF,PHX,Southwest Airlines,168.44331000000003,1,646.8272006633381,"Sacramento, CA","Phoenix, AZ",13030
+4941,SFO,PHX,United Airlines,168.76225,1,650.9177128548561,"San Francisco, CA","Phoenix, AZ",6940
+4942,MRY,PHX,American Airlines,154.72441,1,598.0893137898935,"Monterey, CA","Phoenix, AZ",1270
+4943,SMF,PHX,Southwest Airlines,154.54167999999999,0,646.8272006633381,"Sacramento, CA","Phoenix, AZ",830
+4944,SJC,PHX,American Airlines,156.86138,1,621.4109270357967,"San Jose, CA","Phoenix, AZ",7960
+4945,OAK,PHX,Southwest Airlines,190.52259999999998,0,645.99480565183,"Oakland, CA","Phoenix, AZ",500
+4946,OAK,AZA,Allegiant Air,70.82044499999999,1,668.1788378822376,"Oakland, CA","Phoenix, AZ",1810
+4947,STS,PHX,American Airlines,151.96371000000002,1,698.5061104525696,"Santa Rosa, CA","Phoenix, AZ",1240
+4948,SFO,PHX,Southwest Airlines,152.00642,1,650.9177128548561,"San Francisco, CA","Phoenix, AZ",8660
+4949,SCK,AZA,Allegiant Air,58.02778000000001,1,624.890302548011,"Stockton, CA","Phoenix, AZ",1440
+4950,SJC,PHX,Southwest Airlines,172.90691999999999,0,621.4109270357967,"San Jose, CA","Phoenix, AZ",260
+5043,SJC,PIT,United Airlines,261.86399,0,2236.103753909445,"San Jose, CA","Pittsburgh, PA",100
+5044,SFO,PIT,American Airlines,292.7464,0,2253.770119182248,"San Francisco, CA","Pittsburgh, PA",360
+5045,SJC,PIT,American Airlines,343.56883000000005,0,2236.103753909445,"San Jose, CA","Pittsburgh, PA",250
+5046,SFO,PIT,United Airlines,360.42678,1,2253.770119182248,"San Francisco, CA","Pittsburgh, PA",1770
+5047,SFO,PIT,United Airlines,373.10236000000003,0,2253.770119182248,"San Francisco, CA","Pittsburgh, PA",470
+5048,SMF,PIT,American Airlines,341.68519999999995,0,2190.666166839118,"Sacramento, CA","Pittsburgh, PA",230
+5049,SMF,PIT,United Airlines,320.81356,0,2190.666166839118,"Sacramento, CA","Pittsburgh, PA",140
+5050,SFO,PIT,Southwest Airlines,283.4897,0,2253.770119182248,"San Francisco, CA","Pittsburgh, PA",360
+5051,OAK,PIT,Southwest Airlines,297.34029999999996,0,2243.515875652154,"Oakland, CA","Pittsburgh, PA",1040
+5052,SJC,PIT,Southwest Airlines,279.86951000000005,1,2236.103753909445,"San Jose, CA","Pittsburgh, PA",200
+5053,SJC,PIT,Southwest Airlines,290.76126,0,2236.103753909445,"San Jose, CA","Pittsburgh, PA",400
+5054,SFO,PIT,Delta Air Lines,282.67498,0,2253.770119182248,"San Francisco, CA","Pittsburgh, PA",240
+5055,SMF,PIT,Southwest Airlines,303.1312,0,2190.666166839118,"Sacramento, CA","Pittsburgh, PA",670
+5144,SMF,PDX,Alaska Airlines,140.30023,1,478.54254256226585,"Sacramento, CA","Portland, OR",3950
+5145,SJC,PDX,Alaska Airlines,124.96253000000002,1,568.7112802288632,"San Jose, CA","Portland, OR",7340
+5146,STS,PDX,Alaska Airlines,162.19001,1,488.6993112006698,"Santa Rosa, CA","Portland, OR",1500
+5147,OAK,PDX,Southwest Airlines,129.42729,1,543.3119149399993,"Oakland, CA","Portland, OR",19530
+5148,SFO,PDX,Alaska Airlines,116.67755,1,550.1341864365379,"San Francisco, CA","Portland, OR",9800
+5149,SJC,PDX,Southwest Airlines,117.99997,1,568.7112802288632,"San Jose, CA","Portland, OR",11960
+5150,OAK,PDX,Alaska Airlines,131.88448,1,543.3119149399993,"Oakland, CA","Portland, OR",2640
+5151,SFO,PDX,Southwest Airlines,97.078341,1,550.1341864365379,"San Francisco, CA","Portland, OR",2170
+5152,SFO,PDX,Virgin America,122.48056000000001,1,550.1341864365379,"San Francisco, CA","Portland, OR",4630
+5153,SMF,PDX,Southwest Airlines,155.95666,1,478.54254256226585,"Sacramento, CA","Portland, OR",13300
+5154,SFO,PDX,United Airlines,162.69115,1,550.1341864365379,"San Francisco, CA","Portland, OR",5990
+5186,SMF,PVD,Southwest Airlines,303.86429000000004,0,2624.120531515445,"Sacramento, CA","Providence, RI",210
+5187,SFO,PVD,Southwest Airlines,249.04585,0,2691.339888709074,"San Francisco, CA","Providence, RI",120
+5188,OAK,PVD,Southwest Airlines,302.09763,0,2680.824996418317,"Oakland, CA","Providence, RI",420
+5189,SJC,PVD,Southwest Airlines,314.04095,0,2675.4352683755396,"San Jose, CA","Providence, RI",210
+5193,OAK,PVU,Allegiant Air,48.862594,1,590.5562425477838,"Oakland, CA","Provo, UT",1310
+5282,SMF,RDU,United Airlines,315.41641,0,2345.102925600259,"Sacramento, CA","Raleigh/Durham, NC",140
+5283,SFO,RDU,American Airlines,296.8673,0,2399.876313886553,"San Francisco, CA","Raleigh/Durham, NC",560
+5284,SFO,RDU,United Airlines,372.46366,0,2399.876313886553,"San Francisco, CA","Raleigh/Durham, NC",300
+5285,SMF,RDU,Delta Air Lines,331.18907999999993,0,2345.102925600259,"Sacramento, CA","Raleigh/Durham, NC",110
+5286,SJC,RDU,Southwest Airlines,298.77212000000003,0,2379.075429989141,"San Jose, CA","Raleigh/Durham, NC",750
+5287,SMF,RDU,American Airlines,410.58617000000004,0,2345.102925600259,"Sacramento, CA","Raleigh/Durham, NC",210
+5288,SFO,RDU,Southwest Airlines,250.82455000000002,0,2399.876313886553,"San Francisco, CA","Raleigh/Durham, NC",110
+5289,SJC,RDU,American Airlines,351.06041,0,2379.075429989141,"San Jose, CA","Raleigh/Durham, NC",230
+5290,SMF,RDU,Southwest Airlines,329.01287,0,2345.102925600259,"Sacramento, CA","Raleigh/Durham, NC",660
+5291,SFO,RDU,United Airlines,417.65709000000004,1,2399.876313886553,"San Francisco, CA","Raleigh/Durham, NC",3880
+5292,OAK,RDU,Southwest Airlines,278.69527,0,2390.252224580182,"Oakland, CA","Raleigh/Durham, NC",680
+5293,SFO,RDU,Delta Air Lines,308.15112999999997,0,2399.876313886553,"San Francisco, CA","Raleigh/Durham, NC",540
+5294,SJC,RDU,Delta Air Lines,336.24706,0,2379.075429989141,"San Jose, CA","Raleigh/Durham, NC",240
+5295,OAK,RDU,Southwest Airlines,280.05904999999996,1,2390.252224580182,"Oakland, CA","Raleigh/Durham, NC",210
+5314,OAK,RIC,Southwest Airlines,256.18112,0,2439.0748824893103,"Oakland, CA","Richmond, VA",180
+5315,SFO,RIC,American Airlines,360.20748999999995,0,2448.989504891522,"San Francisco, CA","Richmond, VA",240
+5316,SMF,RIC,American Airlines,331.69455999999997,0,2390.495515709494,"Sacramento, CA","Richmond, VA",110
+5317,SFO,RIC,Delta Air Lines,341.30769,0,2448.989504891522,"San Francisco, CA","Richmond, VA",130
+5330,OAK,ROC,Southwest Airlines,286.99998999999997,0,2350.49417579907,"Oakland, CA","Rochester, NY",210
+5331,SFO,ROC,United Airlines,315.45658,0,2361.071339425233,"San Francisco, CA","Rochester, NY",380
+5332,SJC,ROC,United Airlines,380.34616000000005,0,2345.695296423721,"San Jose, CA","Rochester, NY",130
+5333,SMF,ROC,Southwest Airlines,290.67154,0,2292.895033709809,"Sacramento, CA","Rochester, NY",130
+5438,SJC,SLC,Southwest Airlines,146.55,0,584.4422900817673,"San Jose, CA","Salt Lake City, UT",160
+5439,SFO,SLC,Southwest Airlines,165.02637,0,598.892304418747,"San Francisco, CA","Salt Lake City, UT",110
+5440,SFO,SLC,Alaska Airlines,103.11184000000002,1,598.892304418747,"San Francisco, CA","Salt Lake City, UT",760
+5441,SMF,SLC,Delta Air Lines,155.96591999999998,1,531.6435880791315,"Sacramento, CA","Salt Lake City, UT",4510
+5442,SMF,SLC,Southwest Airlines,122.66713,1,531.6435880791315,"Sacramento, CA","Salt Lake City, UT",2620
+5443,SJC,SLC,Delta Air Lines,131.91503999999998,1,584.4422900817673,"San Jose, CA","Salt Lake City, UT",5900
+5444,SMF,SLC,United Airlines,181.77098999999998,0,531.6435880791315,"Sacramento, CA","Salt Lake City, UT",100
+5445,OAK,SLC,Southwest Airlines,127.79604,1,588.2669677254282,"Oakland, CA","Salt Lake City, UT",7660
+5446,OAK,SLC,Delta Air Lines,128.44291,1,588.2669677254282,"Oakland, CA","Salt Lake City, UT",4560
+5447,SFO,SLC,United Airlines,222.56633999999997,1,598.892304418747,"San Francisco, CA","Salt Lake City, UT",2110
+5448,SMF,SLC,Southwest Airlines,189.14894,0,531.6435880791315,"Sacramento, CA","Salt Lake City, UT",660
+5449,OAK,SLC,Southwest Airlines,174.94154,0,588.2669677254282,"Oakland, CA","Salt Lake City, UT",260
+5450,SFO,SLC,Delta Air Lines,150.27653,1,598.892304418747,"San Francisco, CA","Salt Lake City, UT",3580
+5451,SJC,SLC,Alaska Airlines,93.506056,1,584.4422900817673,"San Jose, CA","Salt Lake City, UT",1420
+5452,SJC,SLC,Southwest Airlines,112.28508999999998,1,584.4422900817673,"San Jose, CA","Salt Lake City, UT",4520
+5544,SFO,SAT,United Airlines,308.46632,1,1482.091486006837,"San Francisco, CA","San Antonio, TX",270
+5545,SMF,SAT,Southwest Airlines,270.49568,0,1462.618731762796,"Sacramento, CA","San Antonio, TX",2030
+5546,OAK,SAT,Southwest Airlines,269.89877,0,1475.771068352598,"Oakland, CA","San Antonio, TX",1140
+5547,SFO,SAT,United Airlines,379.68260999999995,0,1482.091486006837,"San Francisco, CA","San Antonio, TX",190
+5548,SJC,SAT,Southwest Airlines,226.15376,0,1453.813530029122,"San Jose, CA","San Antonio, TX",1490
+5549,SFO,SAT,Southwest Airlines,204.68895000000003,0,1482.091486006837,"San Francisco, CA","San Antonio, TX",870
+5550,SFO,SAT,American Airlines,243.25626000000003,0,1482.091486006837,"San Francisco, CA","San Antonio, TX",560
+5551,SMF,SAT,Southwest Airlines,238.90437999999995,1,1462.618731762796,"Sacramento, CA","San Antonio, TX",480
+5552,SJC,SAT,Southwest Airlines,219.96707999999998,1,1453.813530029122,"San Jose, CA","San Antonio, TX",240
+5553,SJC,SAT,American Airlines,255.13412999999997,0,1453.813530029122,"San Jose, CA","San Antonio, TX",170
+5554,OAK,SAT,Southwest Airlines,212.39523999999997,1,1475.771068352598,"Oakland, CA","San Antonio, TX",440
+5555,SMF,SAT,American Airlines,255.89881,0,1462.618731762796,"Sacramento, CA","San Antonio, TX",510
+5654,SFO,SAN,Alaska Airlines,112.63042999999999,1,446.5746866667304,"San Francisco, CA","San Diego, CA",2300
+5655,MRY,SAN,United Airlines,125.24333000000001,0,375.1290159608128,"Monterey, CA","San Diego, CA",180
+5656,OAK,SAN,Southwest Airlines,146.76841000000002,1,446.1775568510922,"Oakland, CA","San Diego, CA",36410
+5657,SFO,SAN,Virgin America,140.26036,1,446.5746866667304,"San Francisco, CA","San Diego, CA",15440
+5658,MRY,SAN,Alaska Airlines,116.30651999999999,1,375.1290159608128,"Monterey, CA","San Diego, CA",2300
+5659,SMF,SAN,Skywest Airlines,115.51713,1,479.6213716739917,"Sacramento, CA","San Diego, CA",4670
+5660,OAK,SAN,Spirit Air Lines,86.512399,0,446.1775568510922,"Oakland, CA","San Diego, CA",250
+5661,SFO,SAN,United Airlines,156.18401000000003,1,446.5746866667304,"San Francisco, CA","San Diego, CA",15150
+5662,SJC,SAN,Southwest Airlines,175.21334,0,417.0241384381045,"San Jose, CA","San Diego, CA",120
+5663,SFO,SAN,Southwest Airlines,125.28088,0,446.5746866667304,"San Francisco, CA","San Diego, CA",340
+5664,SMF,SAN,Southwest Airlines,190.22444000000002,0,479.6213716739917,"Sacramento, CA","San Diego, CA",180
+5665,SJC,SAN,Alaska Airlines,122.96526000000001,1,417.0241384381045,"San Jose, CA","San Diego, CA",5470
+5666,SCK,SAN,Allegiant Air,53.109628,1,422.8574708282121,"Stockton, CA","San Diego, CA",1870
+5667,STS,SAN,Alaska Airlines,142.93723,1,508.45579447771865,"Santa Rosa, CA","San Diego, CA",2310
+5668,SMF,SAN,Southwest Airlines,141.52733,1,479.6213716739917,"Sacramento, CA","San Diego, CA",33980
+5669,SFO,SAN,Southwest Airlines,129.50654,1,446.5746866667304,"San Francisco, CA","San Diego, CA",15280
+5670,SJC,SAN,Southwest Airlines,135.90071,1,417.0241384381045,"San Jose, CA","San Diego, CA",34330
+5768,SFO,SEA,Alaska Airlines,144.99401,1,678.5939194517448,"San Francisco, CA","Seattle, WA",13190
+5769,SFO,SEA,Virgin America,168.54359000000002,1,678.5939194517448,"San Francisco, CA","Seattle, WA",8300
+5770,SFO,SEA,United Airlines,195.26436000000004,1,678.5939194517448,"San Francisco, CA","Seattle, WA",14450
+5771,SJC,SEA,Southwest Airlines,152.83406000000002,1,696.5025696367015,"San Jose, CA","Seattle, WA",7750
+5772,OAK,SEA,Southwest Airlines,171.12176,1,671.5520140831737,"Oakland, CA","Seattle, WA",16700
+5773,SJC,SEA,Delta Air Lines,167.25463,1,696.5025696367015,"San Jose, CA","Seattle, WA",3070
+5774,SFO,SEA,Delta Air Lines,157.20832000000001,1,678.5939194517448,"San Francisco, CA","Seattle, WA",3600
+5775,SMF,SEA,Alaska Airlines,132.52887,1,605.4186049681272,"Sacramento, CA","Seattle, WA",8750
+5776,STS,SEA,Alaska Airlines,177.7475,1,617.6631438344467,"Santa Rosa, CA","Seattle, WA",2000
+5777,OAK,SEA,Alaska Airlines,151.18913999999998,1,671.5520140831737,"Oakland, CA","Seattle, WA",9750
+5778,SMF,SEA,Southwest Airlines,151.23117,1,605.4186049681272,"Sacramento, CA","Seattle, WA",12940
+5779,SJC,SEA,Alaska Airlines,150.79138,1,696.5025696367015,"San Jose, CA","Seattle, WA",22960
+5780,SMF,SEA,Delta Air Lines,150.68113,1,605.4186049681272,"Sacramento, CA","Seattle, WA",1960
+5829,SMF,GEG,Southwest Airlines,178.90819,0,648.9701301707804,"Sacramento, CA","Spokane, WA",220
+5830,SJC,GEG,Southwest Airlines,231.46357999999995,0,742.3115768733212,"San Jose, CA","Spokane, WA",140
+5831,SFO,GEG,United Airlines,246.91667999999999,1,732.6651310511912,"San Francisco, CA","Spokane, WA",180
+5832,SMF,GEG,Alaska Airlines,175.34282,0,648.9701301707804,"Sacramento, CA","Spokane, WA",460
+5833,SMF,GEG,Alaska Airlines,155.40533000000002,1,648.9701301707804,"Sacramento, CA","Spokane, WA",150
+5834,STS,GEG,Alaska Airlines,209.32473999999996,0,682.7962340228245,"Santa Rosa, CA","Spokane, WA",190
+5835,OAK,GEG,Southwest Airlines,213.24549,1,723.3565139864694,"Oakland, CA","Spokane, WA",3580
+5943,SMF,STL,Delta Air Lines,291.59818,0,1678.781280661062,"Sacramento, CA","St. Louis, MO",110
+5944,SFO,STL,Frontier Airlines,155.85001,0,1735.2408784599802,"San Francisco, CA","St. Louis, MO",100
+5945,SMF,STL,American Airlines,295.1966,0,1678.781280661062,"Sacramento, CA","St. Louis, MO",440
+5946,SJC,STL,American Airlines,318.82291,0,1715.185063290786,"San Jose, CA","St. Louis, MO",240
+5947,SFO,STL,Delta Air Lines,248.80364,0,1735.2408784599802,"San Francisco, CA","St. Louis, MO",220
+5948,SMF,STL,Southwest Airlines,242.79027000000002,1,1678.781280661062,"Sacramento, CA","St. Louis, MO",370
+5949,OAK,STL,Southwest Airlines,238.42831,1,1725.45555747138,"Oakland, CA","St. Louis, MO",2460
+5950,SFO,STL,United Airlines,261.30252,1,1735.2408784599802,"San Francisco, CA","St. Louis, MO",2140
+5951,SFO,STL,Southwest Airlines,248.80767,1,1735.2408784599802,"San Francisco, CA","St. Louis, MO",1540
+5952,SJC,STL,Southwest Airlines,256.28779,0,1715.185063290786,"San Jose, CA","St. Louis, MO",720
+5953,SMF,STL,Southwest Airlines,281.09646000000004,0,1678.781280661062,"Sacramento, CA","St. Louis, MO",1410
+5954,SFO,STL,American Airlines,257.07586,0,1735.2408784599802,"San Francisco, CA","St. Louis, MO",170
+5955,SFO,STL,Southwest Airlines,254.08628,0,1735.2408784599802,"San Francisco, CA","St. Louis, MO",270
+5956,SJC,STL,Southwest Airlines,238.732,1,1715.185063290786,"San Jose, CA","St. Louis, MO",100
+5957,OAK,STL,Southwest Airlines,279.00972,0,1725.45555747138,"Oakland, CA","St. Louis, MO",380
+6090,SJC,TPA,Southwest Airlines,286.8639,1,2366.827861761925,"San Jose, CA","Tampa, FL",180
+6091,SJC,TPA,American Airlines,320.01529,0,2366.827861761925,"San Jose, CA","Tampa, FL",360
+6092,SMF,TPA,American Airlines,297.3088,0,2356.873439073218,"Sacramento, CA","Tampa, FL",670
+6093,SMF,TPA,Southwest Airlines,311.56813999999997,0,2356.873439073218,"Sacramento, CA","Tampa, FL",910
+6094,SMF,TPA,Delta Air Lines,450.82364,0,2356.873439073218,"Sacramento, CA","Tampa, FL",110
+6095,SJC,TPA,Delta Air Lines,321.22427999999996,0,2366.827861761925,"San Jose, CA","Tampa, FL",140
+6096,SJC,TPA,United Airlines,233.61443999999997,0,2366.827861761925,"San Jose, CA","Tampa, FL",180
+6097,SFO,TPA,Delta Air Lines,277.10085,0,2392.608114360433,"San Francisco, CA","Tampa, FL",460
+6098,SJC,TPA,Southwest Airlines,252.60748999999998,0,2366.827861761925,"San Jose, CA","Tampa, FL",400
+6099,OAK,TPA,Southwest Airlines,254.9448,0,2384.6982772725337,"Oakland, CA","Tampa, FL",940
+6100,SFO,TPA,Southwest Airlines,241.92581000000004,0,2392.608114360433,"San Francisco, CA","Tampa, FL",310
+6101,SFO,TPA,United Airlines,273.02599,0,2392.608114360433,"San Francisco, CA","Tampa, FL",1100
+6102,SMF,TPA,United Airlines,324.34952,0,2356.873439073218,"Sacramento, CA","Tampa, FL",410
+6103,SFO,TPA,United Airlines,287.50095,1,2392.608114360433,"San Francisco, CA","Tampa, FL",3040
+6104,SFO,TPA,American Airlines,279.2002,0,2392.608114360433,"San Francisco, CA","Tampa, FL",530
+6105,OAK,TPA,Southwest Airlines,314.36801,1,2384.6982772725337,"Oakland, CA","Tampa, FL",150
+6163,OAK,TUS,Southwest Airlines,192.09914,1,746.8972466876597,"Oakland, CA","Tucson, AZ",230
+6164,SFO,TUS,United Airlines,314.51221,1,751.1815596802023,"San Francisco, CA","Tucson, AZ",820
+6165,SFO,TUS,Southwest Airlines,203.60749,0,751.1815596802023,"San Francisco, CA","Tucson, AZ",360
+6166,SMF,TUS,Southwest Airlines,205.12516,0,751.8623882771507,"Sacramento, CA","Tucson, AZ",1180
+6167,SJC,TUS,Southwest Airlines,176.55203,0,721.2992416580023,"San Jose, CA","Tucson, AZ",1530
+6168,OAK,TUS,Southwest Airlines,186.43373,0,746.8972466876597,"Oakland, CA","Tucson, AZ",1500
+6220,SFO,TUL,American Airlines,285.87036,0,1465.161751172677,"San Francisco, CA","Tulsa, OK",270
+6221,OAK,TUL,Southwest Airlines,260.19611,0,1456.2094794546122,"Oakland, CA","Tulsa, OK",540
+6222,SJC,TUL,Southwest Airlines,222.32466,0,1442.069277318298,"San Jose, CA","Tulsa, OK",300
+6223,SMF,TUL,American Airlines,366.94446000000005,0,1418.9844710725781,"Sacramento, CA","Tulsa, OK",180
+6224,SMF,TUL,Southwest Airlines,274.44205000000005,0,1418.9844710725781,"Sacramento, CA","Tulsa, OK",440
+6225,SFO,TUL,Southwest Airlines,208.16400000000002,0,1465.161751172677,"San Francisco, CA","Tulsa, OK",150
+6278,SMF,ORF,United Airlines,274.40155,0,2461.626813734323,"Sacramento, CA","Norfolk, VA",130
+6279,SJC,ORF,Southwest Airlines,279.27232000000004,0,2499.706788417327,"San Jose, CA","Norfolk, VA",260
+6280,SFO,ORF,Delta Air Lines,390.01748999999995,0,2519.470289303981,"San Francisco, CA","Norfolk, VA",240
+6281,SFO,ORF,United Airlines,278.57358,0,2519.470289303981,"San Francisco, CA","Norfolk, VA",140
+6282,OAK,ORF,Southwest Airlines,300.3906,0,2509.60734464254,"Oakland, CA","Norfolk, VA",510
+6283,SMF,ORF,Southwest Airlines,332.24463,0,2461.626813734323,"Sacramento, CA","Norfolk, VA",390
+6676,SMF,DCA,Southwest Airlines,297.486,1,2381.217502199623,"Sacramento, CA","Washington, DC",200
+6677,SFO,DCA,Virgin America,278.07999,0,2442.248351228109,"San Francisco, CA","Washington, DC",260
+6678,SJC,BWI,American Airlines,342.81478,0,2438.5212419544487,"San Jose, CA","Baltimore, MD",230
+6679,SFO,BWI,Southwest Airlines,269.8333,1,2456.796923564819,"San Francisco, CA","Baltimore, MD",120
+6680,SFO,BWI,American Airlines,314.9168,0,2456.796923564819,"San Francisco, CA","Baltimore, MD",250
+6681,SMF,DCA,United Airlines,435.09630999999996,0,2381.217502199623,"Sacramento, CA","Washington, DC",190
+6682,SMF,DCA,Delta Air Lines,419.92812000000004,0,2381.217502199623,"Sacramento, CA","Washington, DC",480
+6683,OAK,BWI,Southwest Airlines,276.32382,1,2446.644169504788,"Oakland, CA","Baltimore, MD",3400
+6684,SFO,IAD,Alaska Airlines,273.5801,1,2418.594555747382,"San Francisco, CA","Washington, DC",950
+6685,SFO,IAD,Southwest Airlines,265.48001999999997,0,2418.594555747382,"San Francisco, CA","Washington, DC",250
+6686,SFO,DCA,Frontier Airlines,169.34091,0,2442.248351228109,"San Francisco, CA","Washington, DC",220
+6687,OAK,DCA,Southwest Airlines,344.2323200000001,0,2432.145084862431,"Oakland, CA","Washington, DC",1110
+6688,OAK,BWI,Spirit Air Lines,143.88174999999998,0,2446.644169504788,"Oakland, CA","Baltimore, MD",230
+6689,SJC,DCA,Delta Air Lines,353.44043,0,2423.699487963107,"San Jose, CA","Washington, DC",460
+6690,OAK,IAD,Southwest Airlines,295.04794999999996,0,2408.4883322677647,"Oakland, CA","Washington, DC",290
+6691,SJC,BWI,Southwest Airlines,312.48323999999997,0,2438.5212419544487,"San Jose, CA","Baltimore, MD",340
+6692,SFO,DCA,JetBlue Airways,325.39001,0,2442.248351228109,"San Francisco, CA","Washington, DC",100
+6693,SFO,DCA,Alaska Airlines,313.50715,1,2442.248351228109,"San Francisco, CA","Washington, DC",700
+6694,SJC,DCA,American Airlines,344.34214000000003,0,2423.699487963107,"San Jose, CA","Washington, DC",700
+6695,SFO,IAD,United Airlines,440.14372999999995,1,2418.594555747382,"San Francisco, CA","Washington, DC",18790
+6696,SMF,DCA,Southwest Airlines,356.55723,0,2381.217502199623,"Sacramento, CA","Washington, DC",790
+6697,OAK,BWI,Spirit Air Lines,145.3501,1,2446.644169504788,"Oakland, CA","Baltimore, MD",1100
+6698,SMF,BWI,Southwest Airlines,284.27898999999996,1,2395.07303873505,"Sacramento, CA","Baltimore, MD",3130
+6699,OAK,DCA,Delta Air Lines,345.31,0,2432.145084862431,"Oakland, CA","Washington, DC",130
+6700,SMF,BWI,American Airlines,354.02355000000006,0,2395.07303873505,"Sacramento, CA","Baltimore, MD",140
+6701,SFO,BWI,United Airlines,325.24172999999996,1,2456.796923564819,"San Francisco, CA","Baltimore, MD",1450
+6702,SJC,DCA,Southwest Airlines,299.5635,0,2423.699487963107,"San Jose, CA","Washington, DC",600
+6703,OAK,DCA,American Airlines,373.77274,0,2432.145084862431,"Oakland, CA","Washington, DC",110
+6704,OAK,BWI,Southwest Airlines,302.60983,0,2446.644169504788,"Oakland, CA","Baltimore, MD",650
+6705,SFO,DCA,Southwest Airlines,252.11289,0,2442.248351228109,"San Francisco, CA","Washington, DC",450
+6706,SMF,BWI,United Airlines,327.16142999999994,0,2395.07303873505,"Sacramento, CA","Baltimore, MD",140
+6707,SJC,BWI,Delta Air Lines,295.46425,0,2438.5212419544487,"San Jose, CA","Baltimore, MD",400
+6708,SFO,IAD,American Airlines,343.91222000000005,0,2418.594555747382,"San Francisco, CA","Washington, DC",180
+6709,SJC,IAD,United Airlines,311.13117000000005,0,2400.063350611621,"San Jose, CA","Washington, DC",430
+6710,SFO,BWI,Southwest Airlines,240.20917000000003,0,2456.796923564819,"San Francisco, CA","Baltimore, MD",240
+6711,SJC,DCA,United Airlines,283.52749,0,2423.699487963107,"San Jose, CA","Washington, DC",160
+6712,SFO,DCA,Delta Air Lines,383.6644600000001,0,2442.248351228109,"San Francisco, CA","Washington, DC",470
+6713,SMF,IAD,United Airlines,443.19553,1,2357.530644770769,"Sacramento, CA","Washington, DC",2390
+6714,SMF,DCA,American Airlines,355.66468000000003,0,2381.217502199623,"Sacramento, CA","Washington, DC",1350
+6715,SMF,BWI,Delta Air Lines,370.70727,0,2395.07303873505,"Sacramento, CA","Baltimore, MD",330
+6716,OAK,DCA,Southwest Airlines,306.04539,1,2432.145084862431,"Oakland, CA","Washington, DC",540
+6717,SFO,BWI,Delta Air Lines,283.66811,0,2456.796923564819,"San Francisco, CA","Baltimore, MD",640
+6718,SFO,DCA,American Airlines,330.70998000000003,0,2442.248351228109,"San Francisco, CA","Washington, DC",1100
+6719,SMF,IAD,Delta Air Lines,306.56106,0,2357.530644770769,"Sacramento, CA","Washington, DC",190
+6720,SJC,BWI,Southwest Airlines,261.68871,1,2438.5212419544487,"San Jose, CA","Baltimore, MD",3060
+6721,SMF,IAD,United Airlines,404.72479000000004,0,2357.530644770769,"Sacramento, CA","Washington, DC",230
+6722,OAK,BWI,Delta Air Lines,290.85412,0,2446.644169504788,"Oakland, CA","Baltimore, MD",170
+6723,SFO,IAD,Virgin America,408.52637000000004,0,2418.594555747382,"San Francisco, CA","Washington, DC",110
+6724,SFO,IAD,Virgin America,339.80872999999997,1,2418.594555747382,"San Francisco, CA","Washington, DC",6090
+6725,SJC,IAD,Delta Air Lines,275.09437,0,2400.063350611621,"San Jose, CA","Washington, DC",160
+6726,SFO,IAD,United Airlines,399.14913,0,2418.594555747382,"San Francisco, CA","Washington, DC",580
+6727,SJC,IAD,Southwest Airlines,326.73080000000004,0,2400.063350611621,"San Jose, CA","Washington, DC",250
+6728,SFO,BWI,United Airlines,348.33367,0,2456.796923564819,"San Francisco, CA","Baltimore, MD",760
+6729,SFO,DCA,United Airlines,421.1616,1,2442.248351228109,"San Francisco, CA","Washington, DC",2270
+6730,SMF,BWI,Southwest Airlines,341.28001000000006,0,2395.07303873505,"Sacramento, CA","Baltimore, MD",660
+6731,SFO,DCA,Virgin America,391.59504999999996,1,2442.248351228109,"San Francisco, CA","Washington, DC",4240
+6732,SMF,IAD,Southwest Airlines,377.91567000000003,0,2357.530644770769,"Sacramento, CA","Washington, DC",370
+6733,SFO,DCA,United Airlines,428.38502,0,2442.248351228109,"San Francisco, CA","Washington, DC",160
+6753,SJC,ICT,Southwest Airlines,216.40894,0,1342.093474918621,"San Jose, CA","Wichita, KS",190
+6754,OAK,ICT,Southwest Airlines,240.12867999999997,0,1354.608229498302,"Oakland, CA","Wichita, KS",230
+6755,SMF,ICT,Southwest Airlines,260.71961,0,1313.518385332847,"Sacramento, CA","Wichita, KS",260
+6756,SFO,ICT,United Airlines,231.35417,0,1363.934662542178,"San Francisco, CA","Wichita, KS",240
