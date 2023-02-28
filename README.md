@@ -1,7 +1,7 @@
 # Python Practice Files
 This repository collects datasets for Python practice. The following will provide some basic information on each dataset.
 
-I sincerely thank Professor Kim Ruhl for his Python lecture in 2021 Fall at University of Wisconsin-Madison.
+I sincerely thank Professor [Kim J. Ruhl](https://kimjruhl.com/) for his Python lecture in 2021 Fall at University of Wisconsin-Madison.
 
 ## DateTime Package
 ### osk.csv
@@ -38,9 +38,10 @@ In this data file, the variables include
 
 ## Matplotlib
 ### banking_data.csv
-This dataset constains information on banking industry in the US in 1934-2017.
+This dataset constains information on number of banks and banking offices in the US in 1934-2017.
 
 ### VIXCLSD-1.csv
+This dataset collects daily [VIX](https://en.wikipedia.org/wiki/VIX) index from 1990 Jan 2 to 2019 Oct 10.
 
 ## pandas
 ### movies_merged.csv
@@ -51,7 +52,7 @@ The data are taken from the Airline Origin & Destination Survey (DB1B) but has b
 
 ## Regressions
 ### sleep75.dta
-This data set corresponds to Problem 3 in Chapter 3 of Wooldridge's *Introductory Econometrics* (7th edition) and it's already cleaned. Professor [Kim Ruhl](https://kimjruhl.com/) contemplated adding some junk to the files to make it more interesting.
+This data set corresponds to Problem 3 in Chapter 3 of Wooldridge's *[Introductory Econometrics](https://www.cengage.com/c/introductory-econometrics-a-modern-approach-7e-wooldridge/9781337558860PF/)* (7th edition) and it's already cleaned. Professor [Kim J. Ruhl](https://kimjruhl.com/) contemplated adding some junk to the files to make it more interesting.
 
 ### wage1.dta
 This data set corresponds to Problem C2 in Chapter 6 of Wooldridge's *Introductory Econometrics* (7th edition).
@@ -74,4 +75,4 @@ The file 'WEOOct2019all.csv' is from the IMF's [World Economic Outlook](https://
 This is a dataset (in four different forms) with some information on Wisconsin cities. The data include the location of the cities and their populations. There are 20 Wisconsin cities that rank among the 1000 largest cities. We can use '1000-largest-us-cities-by-population-with-geographic-coordinates.shp' with geopandas in Python to plot maps for Wisconsin cities.
 
 ### result.csv
-To plot voting patterns in the 2016 presidential election, I downloaded result data from [Wisconsin Elections Commission](https://elections.wi.gov/elections-voting/results/2016/fall-general). It is a mess. I saved a cleaned up version of the file to 'results.csv'.
+To plot voting patterns in the 2016 presidential election, I downloaded result data from [Wisconsin Elections Commission](https://elections.wi.gov/elections-voting/results/2016/fall-general). It is a mess. I saved a cleaned-up version of the file to 'results.csv'.
