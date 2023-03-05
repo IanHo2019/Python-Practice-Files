@@ -40,6 +40,9 @@ In this data file, the variables include
 ### banking_data.csv
 This dataset constains information on number of banks and banking offices in the US in 1934-2017.
 
+### bea_gdp.csv
+This file collects data on US annual GDP and its subcomponents from 1929 to 2019.
+
 ### VIXCLSD-1.csv
 This dataset collects daily [VIX](https://en.wikipedia.org/wiki/VIX) index from 1990 Jan 2 to 2019 Oct 10.
 
