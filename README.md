@@ -79,6 +79,11 @@ In the dataset 'dogs.csv', there are different dimensions: variables (walks, sna
 ### WEOOct2019all.csv
 The file 'WEOOct2019all.csv' is from the IMF's [World Economic Outlook](https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/download.aspx), which contains historical data and the IMF's forecasts for many countries and variables.
 
+
+## seaborn
+### auto_data.dta
+This file contains data on automobile characteristics in the European market. The unit of observation is a automobile model at a point in time. We can see prices and quantities sold and characteristics about the model.
+
 ## Wisconsin Maps
 ### 1000-largest-us-cities-by-population-with-geographic-coordinates
 This is a dataset (in four different forms) with some information on Wisconsin cities. The data include the location of the cities and their populations. There are 20 Wisconsin cities that rank among the 1000 largest cities. We can use '1000-largest-us-cities-by-population-with-geographic-coordinates.shp' with geopandas in Python to plot maps for Wisconsin cities.
